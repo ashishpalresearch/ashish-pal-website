@@ -4,14 +4,6 @@ title: "Publications"
 
 # Publications
 
-A complete list of publications can be found on my Google Scholar profile.
+Research publications in structural health monitoring, digital twins, scientific computing, sensing technologies, and mechanics-informed machine learning.
 
-- Journal Articles
-- Conference Papers
-- Book Chapters
-- Preprints
-- Technical Reports
-
-## Google Scholar
-
-https://scholar.google.com/
+{{< publications >}}

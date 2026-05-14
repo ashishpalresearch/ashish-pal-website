@@ -1,0 +1,29 @@
+<div class="publication-list">
+
+{{ range sort site.Data.publications "year" "desc" }}
+
+<div style="margin-bottom:2rem;padding:1.2rem;border-radius:14px;border:1px solid #e2e8f0;box-shadow:0 4px 14px rgba(0,0,0,0.05);">
+
+<h3 style="margin-top:0;">
+{{ .title }}
+</h3>
+
+<p>
+<strong>Authors:</strong> {{ .authors }}
+</p>
+
+<p>
+<strong>Journal:</strong> {{ .journal }} ({{ .year }})
+</p>
+
+<p>
+<a href="{{ .doi }}" target="_blank">
+View Publication
+</a>
+</p>
+
+</div>
+
+{{ end }}
+
+</div>
