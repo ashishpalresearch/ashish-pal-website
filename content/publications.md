@@ -1,5 +1,17 @@
-+++
-date = '2026-05-14T14:59:03+05:30'
-draft = true
-title = 'Publications'
-+++
+---
+title: "Publications"
+---
+
+# Publications
+
+A complete list of publications can be found on my Google Scholar profile.
+
+- Journal Articles
+- Conference Papers
+- Book Chapters
+- Preprints
+- Technical Reports
+
+## Google Scholar
+
+https://scholar.google.com/

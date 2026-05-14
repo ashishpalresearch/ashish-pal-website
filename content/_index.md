@@ -1,11 +1,11 @@
 ---
 title: "Home"
-featured_image: "/images/home-banner.jpg"
+featured_image: "/images/home-banner-2.png"
 ---
 
 # Prof. Ashish Pal
 
-**Assistant Professor**  
+**Assistant Professor**
 Department of Civil Engineering  
 Indian Institute of Technology Bombay
 

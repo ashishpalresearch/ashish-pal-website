@@ -7,5 +7,33 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/ashish-pal-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/ashish-pal-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ashish-pal-website/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;Prof. Ashish Pal is an Assistant Professor in the Department of Civil Engineering at the Indian Institute of Technology Bombay.&lt;/p&gt;&#xA;&lt;p&gt;His research lies at the intersection of structural engineering, scientific computing, sensing technologies, and artificial intelligence. His work focuses on developing mechanics-informed intelligent systems for structural health monitoring, digital twinning, and resilient infrastructure management.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Structural Health Monitoring&lt;/li&gt;&#xA;&lt;li&gt;Digital Twins of Civil Infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Physics-Informed Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Scientific Computing&lt;/li&gt;&#xA;&lt;li&gt;Computer Vision-Based Structural Monitoring&lt;/li&gt;&#xA;&lt;li&gt;Vibration-Based Damage Detection&lt;/li&gt;&#xA;&lt;li&gt;Drone-Based Infrastructure Monitoring&lt;/li&gt;&#xA;&lt;li&gt;Uncertainty Quantification&lt;/li&gt;&#xA;&lt;li&gt;System Identification of Dynamical Systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-vision&#34;&gt;Research Vision&lt;/h2&gt;&#xA;&lt;p&gt;The long-term goal of the research is to develop intelligent infrastructure systems capable of autonomous sensing, interpretation, prediction, and decision support by integrating mechanics, data, and machine intelligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Openings</title>
+      <link>http://localhost:1313/ashish-pal-website/openings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ashish-pal-website/openings/</guid>
+      <description>&lt;h1 id=&#34;openings&#34;&gt;Openings&lt;/h1&gt;&#xA;&lt;p&gt;Motivated students interested in the following areas are encouraged to contact me:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Structural Health Monitoring&lt;/li&gt;&#xA;&lt;li&gt;AI/ML for Civil Engineering&lt;/li&gt;&#xA;&lt;li&gt;Physics-Informed Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Digital Twins&lt;/li&gt;&#xA;&lt;li&gt;Scientific Computing&lt;/li&gt;&#xA;&lt;li&gt;Computer Vision&lt;/li&gt;&#xA;&lt;li&gt;Infrastructure Sensing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;opportunities&#34;&gt;Opportunities&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Undergraduate Projects&lt;/li&gt;&#xA;&lt;li&gt;Summer Internships&lt;/li&gt;&#xA;&lt;li&gt;M.Tech Projects&lt;/li&gt;&#xA;&lt;li&gt;PhD Positions&lt;/li&gt;&#xA;&lt;li&gt;Postdoctoral Research&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Interested students should email with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CV&lt;/li&gt;&#xA;&lt;li&gt;transcript&lt;/li&gt;&#xA;&lt;li&gt;research interests&lt;/li&gt;&#xA;&lt;li&gt;relevant coding/research experience&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/ashish-pal-website/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ashish-pal-website/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;p&gt;A complete list of publications can be found on my Google Scholar profile.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Journal Articles&lt;/li&gt;&#xA;&lt;li&gt;Conference Papers&lt;/li&gt;&#xA;&lt;li&gt;Book Chapters&lt;/li&gt;&#xA;&lt;li&gt;Preprints&lt;/li&gt;&#xA;&lt;li&gt;Technical Reports&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;google-scholar&#34;&gt;Google Scholar&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/&#34;&gt;https://scholar.google.com/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/ashish-pal-website/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ashish-pal-website/research/</guid>
+      <description>&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;&#xA;&lt;p&gt;The research focuses on mechanics-informed intelligent systems for monitoring, modelling, and decision-making in civil infrastructure.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;structural-health-monitoring&#34;&gt;Structural Health Monitoring&lt;/h1&gt;&#xA;&lt;p&gt;Developing vibration-based and data-driven approaches for damage detection, localization, and condition assessment of civil structures.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;digital-twins&#34;&gt;Digital Twins&lt;/h1&gt;&#xA;&lt;p&gt;Developing intelligent digital twins capable of integrating sensing data, mechanics, and machine learning for real-time infrastructure state estimation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;physics-informed-machine-learning&#34;&gt;Physics-Informed Machine Learning&lt;/h1&gt;&#xA;&lt;p&gt;Developing machine learning algorithms constrained by physical laws, continuum mechanics, and governing PDEs.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
