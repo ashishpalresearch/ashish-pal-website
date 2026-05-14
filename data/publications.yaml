@@ -1,17 +1,125 @@
-- title: "Physics-Informed Digital Twins for Civil Infrastructure"
-  authors: "Ashish Pal, Author B, Author C"
-  journal: "Journal of Structural Engineering"
-  year: 2025
-  doi: "https://doi.org/10.xxxx/example1"
-
-- title: "Vision-Based Structural Health Monitoring Using Deep Learning"
-  authors: "Ashish Pal, Author D"
-  journal: "Mechanical Systems and Signal Processing"
-  year: 2024
-  doi: "https://doi.org/10.xxxx/example2"
-
-- title: "Scientific Machine Learning for Structural Dynamics"
-  authors: "Ashish Pal, Author E"
-  journal: "Computer Methods in Applied Mechanics and Engineering"
+- title: 'Latching control: Experimental study on pendulum latched mass damper'
+  authors: Wang, Hao and Pal, Ashish and Nagarajaiah, Satish and Ke, Shitang and Zhu,
+    Songye
+  journal: Engineering Structures
   year: 2026
-  doi: "https://doi.org/10.xxxx/example3"
+  doi: https://doi.org/10.1016/j.engstruct.2026.122745
+  type: Journal Articles
+  venue_label: Journal
+- title: Signal-based online acceleration and strain data fusion using B-splines and
+    Kalman filter for full-field dynamic displacement estimation
+  authors: Das, Aniruddha and Pal, Ashish and Nagarajaiah, Satish and Sajeer, Mohamed
+    M. and Mukhopadhyay, Suparno
+  journal: Mechanical Systems and Signal Processing
+  year: 2026
+  doi: https://doi.org/10.1016/j.ymssp.2026.113951
+  type: Journal Articles
+  venue_label: Journal
+- title: Physics-informed AI and ML-based sparse system identification algorithm for
+    discovery of PDE's representing nonlinear dynamic systems
+  authors: Pal, Ashish and Bhowmick, Sutanu and Nagarajaiah, Satish
+  journal: Mechanical Systems and Signal Processing
+  year: 2025
+  doi: https://doi.org/10.1016/j.ymssp.2025.113238
+  type: Journal Articles
+  venue_label: Journal
+- title: KAN/MultKAN with Physics-Informed Spline fitting (KAN-PISF) for ordinary/partial
+    differential equation discovery of nonlinear dynamic systems
+  authors: Pal, Ashish and Nagarajaiah, Satish
+  journal: ''
+  year: 2024
+  doi: https://doi.org/10.48550/arXiv.2411.11801
+  type: arXiv Preprints
+  venue_label: arXiv
+- title: Data fusion based on short-term memory Kalman filtering using intermittent-displacement
+    and acceleration signal with a time-varying bias
+  authors: Pal, Ashish and Nagarajaiah, Satish
+  journal: Mechanical Systems and Signal Processing
+  year: 2024
+  doi: https://doi.org/10.1016/j.ymssp.2024.111482
+  type: Journal Articles
+  venue_label: Journal
+- title: Sparsity promoting algorithm for identification of nonlinear dynamic system
+    based on Unscented Kalman Filter using novel selective thresholding and penalty-based
+    model selection
+  authors: Pal, Ashish and Nagarajaiah, Satish
+  journal: Mechanical Systems and Signal Processing
+  year: 2024
+  doi: https://doi.org/10.1016/j.ymssp.2024.111301
+  type: Journal Articles
+  venue_label: Journal
+- title: Deep Learning-Based Subsurface Damage Localization Using Full-Field Surface
+    Strains
+  authors: Pal, Ashish and Meng, Wei and Nagarajaiah, Satish
+  journal: Sensors
+  year: 2023
+  doi: https://doi.org/10.3390/s23177445
+  type: Journal Articles
+  venue_label: Journal
+- title: Deep Learning for Image Segmentation and Subsurface Damage Detection Based
+    on Full-Field Surface Strains
+  authors: Pal, Ashish and Meng, Wei and Nagarajaiah, Satish
+  journal: Proceedings of the Society for Experimental Mechanics Series
+  year: 2023
+  doi: ''
+  type: Books / Book Chapters
+  venue_label: Book
+- title: Subsurface damage detection via noncontact laser based surface level strain
+    sensing smart skin with carbon nanotubes
+  authors: Pal, Ashish and Meng, Wei and Bachilo, Sergei M. and Weisman, R. Bruce
+    and Nagarajaiah, Satish
+  journal: Engineering Structures
+  year: 2023
+  doi: https://doi.org/10.1016/j.engstruct.2023.116017
+  type: Journal Articles
+  venue_label: Journal
+- title: Next-Generation Non-contact Strain-Sensing Method Using Strain-Sensing Smart
+    Skin (S4) for Static and Dynamic Measurement
+  authors: Meng, Wei and Pal, Ashish and Bachilo, Sergei M. and Weisman, R. Bruce
+    and Nagarajaiah, Satish
+  journal: Model Validation and Uncertainty Quantification, Volume 3
+  year: 2023
+  doi: https://doi.org/10.1007/978-3-031-37003-8_24
+  type: Books / Book Chapters
+  venue_label: Book
+- title: Hybrid method for full-field response estimation using sparse measurement
+    data based on inverse analysis and static condensation
+  authors: Pal, Ashish and Meng, Wei and Nagarajaiah, Satish
+  journal: Journal of Infrastructure Intelligence and Resilience
+  year: 2022
+  doi: https://doi.org/10.1016/j.iintel.2022.100017
+  type: Journal Articles
+  venue_label: Journal
+- title: Next-generation 2D optical strain mapping with strain-sensing smart skin
+    compared to digital image correlation
+  authors: Meng, Wei and Pal, Ashish and Bachilo, Sergei M. and Weisman, R. Bruce
+    and Nagarajaiah, Satish
+  journal: Scientific Reports
+  year: 2022
+  doi: https://doi.org/10.1038/s41598-022-15332-1
+  type: Journal Articles
+  venue_label: Journal
+- title: Peak Factor--Based Modal Combination Rule of Response-Spectrum Method for
+    Peak Floor Accelerations
+  authors: Pal, Ashish and Gupta, Vinay K
+  journal: Journal of Structural Engineering
+  year: 2021
+  doi: https://doi.org/10.1061/(ASCE)ST.1943-541X.0003044
+  type: Journal Articles
+  venue_label: Journal
+- title: A note on spectral velocity approximation at shorter intermediate periods
+  authors: Pal, Ashish and Gupta, Vinay K
+  journal: Soil Dynamics and Earthquake Engineering
+  year: 2021
+  doi: https://doi.org/10.1016/j.soildyn.2020.106422
+  type: Journal Articles
+  venue_label: Journal
+- title: Modal Identification and Damage Detection of Railway Bridges Using Time-Varying
+    Modes Identified from Train Induced Vibrations
+  authors: Pal, Ashish and Gaur, Astha and Mukhopadhyay, Suparno
+  journal: 'Model Validation and Uncertainty Quantification, Volume 3: Proceedings
+    of the 38th IMAC, A Conference and Exposition on Structural Dynamics 2020'
+  year: 2020
+  doi: ''
+  type: Conference Papers
+  venue_label: Conference

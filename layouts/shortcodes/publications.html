@@ -1,29 +1,29 @@
-<div class="publication-list">
+{{ $pubs := sort site.Data.publications "year" "desc" }}
 
-{{ range sort site.Data.publications "year" "desc" }}
+{{ range slice "Journal Articles" "Conference Papers" "Books / Book Chapters" "arXiv Preprints" }}
 
-<div style="margin-bottom:2rem;padding:1.2rem;border-radius:14px;border:1px solid #e2e8f0;box-shadow:0 4px 14px rgba(0,0,0,0.05);">
+  {{ $section := . }}
+  {{ $items := where $pubs "type" $section }}
 
-<h3 style="margin-top:0;">
-{{ .title }}
-</h3>
+  {{ if $items }}
+    <h2>{{ $section }}</h2>
 
-<p>
-<strong>Authors:</strong> {{ .authors }}
-</p>
+    {{ range $items }}
+      <div style="margin-bottom:2rem;padding:1.2rem;border-radius:14px;border:1px solid #e2e8f0;box-shadow:0 4px 14px rgba(0,0,0,0.05);">
+        <h3 style="margin-top:0;">{{ .title }}</h3>
 
-<p>
-<strong>Journal:</strong> {{ .journal }} ({{ .year }})
-</p>
+        <p><strong>Authors:</strong> {{ .authors }}</p>
 
-<p>
-<a href="{{ .doi }}" target="_blank">
-View Publication
-</a>
-</p>
+        <p><strong>{{ .venue_label }}:</strong> {{ .journal }} ({{ .year }})</p>
 
-</div>
+        {{ if .link }}
+        <p>
+          <a href="{{ .link }}" target="_blank">View Publication</a>
+        </p>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  {{ end }}
 
 {{ end }}
-
-</div>
