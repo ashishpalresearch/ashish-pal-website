@@ -1,0 +1,10 @@
+baseURL = "https://ashishpalresearch.github.io/"
+languageCode = "en-us"
+title = "Prof. Ashish Pal"
+theme = "ananke"
+
+[pagination]
+pagerSize = 10
+
+[params]
+description = "Mechanics-informed AI, structural health monitoring, digital twins, and scientific computing for resilient infrastructure."
