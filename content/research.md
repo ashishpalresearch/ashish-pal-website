@@ -1,49 +1,27 @@
 ---
 title: "Research"
+
+research_cards:
+  - title: "Structural Health Monitoring"
+    description: "Vibration-based and data-driven methods for damage detection, localization, and condition assessment of civil infrastructure."
+  - title: "Digital Twins"
+    description: "Mechanics-informed digital twins that combine sensing data, computational models, and AI for infrastructure state estimation."
+  - title: "Physics-Informed Machine Learning"
+    description: "Machine learning models constrained by governing equations, continuum mechanics, and physical principles."
+  - title: "Computer Vision for Infrastructure"
+    description: "Image and video-based methods for displacement tracking, vibration measurement, crack detection, and inspection."
+  - title: "Scientific Computing"
+    description: "Finite element methods, inverse problems, numerical modelling, and scientific machine learning."
+  - title: "Drone-Based Monitoring"
+    description: "Remote and non-contact structural monitoring using drones, cameras, and vision-based sensing."
+  - title: "System Identification"
+    description: "Learning interpretable models of linear and nonlinear dynamical systems from sparse and noisy measurements."
+  - title: "Uncertainty Quantification"
+    description: "Quantifying modelling, sensing, and prediction uncertainty for informed infrastructure decisions."
 ---
 
 # Research
 
-The research focuses on mechanics-informed intelligent systems for monitoring, modelling, and decision-making in civil infrastructure.
+My research focuses on mechanics-informed intelligent systems for monitoring, modelling, and decision-making in civil infrastructure.
 
----
-
-# Structural Health Monitoring
-
-Developing vibration-based and data-driven approaches for damage detection, localization, and condition assessment of civil structures.
-
----
-
-# Digital Twins
-
-Developing intelligent digital twins capable of integrating sensing data, mechanics, and machine learning for real-time infrastructure state estimation.
-
----
-
-# Physics-Informed Machine Learning
-
-Developing machine learning algorithms constrained by physical laws, continuum mechanics, and governing PDEs.
-
----
-
-# Computer Vision for Infrastructure Monitoring
-
-Using computer vision and image-based sensing for vibration measurement, displacement tracking, crack detection, and structural condition assessment.
-
----
-
-# Scientific Computing
-
-Finite element methods, inverse problems, scientific machine learning, and computational modelling of dynamical systems.
-
----
-
-# Drone-Based Structural Monitoring
-
-Developing drone-assisted monitoring systems for remote and non-contact structural vibration measurements.
-
----
-
-# Uncertainty Quantification
-
-Quantifying uncertainty in sensing, modelling, and decision-making for infrastructure management.
+{{< research-cards >}}

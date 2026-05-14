@@ -3,31 +3,35 @@ title: "Home"
 featured_image: "/images/home-banner-2.png"
 ---
 
-# Prof. Ashish Pal
+<div class="hero-title">
+AI, Mechanics, and Digital Twins for Intelligent Infrastructure
+</div>
 
-**Assistant Professor**
-Department of Civil Engineering  
-Indian Institute of Technology Bombay
+<div class="hero-subtitle">
+Research in structural health monitoring, scientific computing, computer vision, and physics-informed machine learning for resilient civil infrastructure.
+</div>
 
-## AI, Mechanics, and Digital Twins for Resilient Civil Infrastructure
+---
 
-My research focuses on developing intelligent methods for monitoring, modelling, and decision-making in civil infrastructure by combining structural mechanics, sensing, scientific computing, and artificial intelligence.
+# Research Vision
 
-## Research Verticals
+Developing mechanics-informed intelligent systems capable of sensing, learning, predicting, and supporting decision-making for civil infrastructure.
+
+---
+
+# Research Areas
 
 - Structural Health Monitoring
-- Digital Twins of Civil Infrastructure
+- Digital Twins
 - Physics-Informed Machine Learning
-- Computer Vision for Infrastructure Monitoring
-- Drone and Camera-Based Vibration Sensing
-- Scientific Computing and Finite Element Methods
-- System Identification of Dynamical Systems
-- Uncertainty Quantification for Infrastructure Decisions
+- Scientific Computing
+- Computer Vision for Infrastructure
+- Drone-Based Monitoring
+- Uncertainty Quantification
+- System Identification
 
-## Current Research Vision
+---
 
-To build mechanics-informed intelligent infrastructure systems that can sense, learn, predict, and support resilient decision-making over the life cycle of civil structures.
+# Opportunities
 
-## Opportunities
-
-I welcome motivated undergraduate, M.Tech, PhD, and postdoctoral researchers interested in AI/ML, structural health monitoring, digital twins, and scientific computing.
+Openings are available for motivated students interested in AI/ML, sensing, computational mechanics, scientific machine learning, and intelligent infrastructure systems.
