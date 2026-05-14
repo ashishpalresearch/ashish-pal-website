@@ -1,28 +1,33 @@
 ---
 title: "Home"
+featured_image: "/images/home-banner.jpg"
 ---
 
 # Prof. Ashish Pal
 
-Assistant Professor  
+**Assistant Professor**  
 Department of Civil Engineering  
 Indian Institute of Technology Bombay
 
-## Research Theme
+## AI, Mechanics, and Digital Twins for Resilient Civil Infrastructure
 
-Mechanics-informed artificial intelligence, structural health monitoring, and digital twinning for resilient civil infrastructure.
+My research focuses on developing intelligent methods for monitoring, modelling, and decision-making in civil infrastructure by combining structural mechanics, sensing, scientific computing, and artificial intelligence.
 
 ## Research Verticals
 
 - Structural Health Monitoring
-- Digital Twins
+- Digital Twins of Civil Infrastructure
 - Physics-Informed Machine Learning
-- Scientific Computing
-- Computer Vision for Infrastructure
-- Drone-Based Monitoring
-- System Identification
-- Uncertainty Quantification
+- Computer Vision for Infrastructure Monitoring
+- Drone and Camera-Based Vibration Sensing
+- Scientific Computing and Finite Element Methods
+- System Identification of Dynamical Systems
+- Uncertainty Quantification for Infrastructure Decisions
 
-## Current Focus
+## Current Research Vision
 
-Developing intelligent infrastructure systems through the integration of mechanics, sensing, AI/ML, and scientific computing.
+To build mechanics-informed intelligent infrastructure systems that can sense, learn, predict, and support resilient decision-making over the life cycle of civil structures.
+
+## Opportunities
+
+I welcome motivated undergraduate, M.Tech, PhD, and postdoctoral researchers interested in AI/ML, structural health monitoring, digital twins, and scientific computing.

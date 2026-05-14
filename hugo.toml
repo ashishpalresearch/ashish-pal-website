@@ -1,4 +1,4 @@
-baseURL = "https://ashishpalresearch.github.io/"
+baseURL = "https://ashishpalresearch.github.io/ashish-pal-website/"
 languageCode = "en-us"
 title = "Prof. Ashish Pal"
 theme = "ananke"
@@ -8,3 +8,36 @@ pagerSize = 10
 
 [params]
 description = "Mechanics-informed AI, structural health monitoring, digital twins, and scientific computing for resilient infrastructure."
+author = "Prof. Ashish Pal"
+background_color_class = "bg-navy"
+featured_image = "/images/home-banner.jpg"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/research/"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 3
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching/"
+weight = 4
+
+[[menu.main]]
+name = "Openings"
+url = "/openings/"
+weight = 5
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 6
