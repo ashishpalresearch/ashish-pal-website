@@ -9,8 +9,6 @@ showReadingTime: false
 <img class="homepage-banner"
      src="/ashish-pal-website/images/home-banner-4.png">
 
-<br>
-
 ---
 
 <div style="
@@ -63,36 +61,210 @@ The goal is to build resilient infrastructure systems capable of autonomous sens
 </div>
 
 
+---
+
 ## Research Areas
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:1.5rem;">
+<div style="
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:1.5rem;
+margin-top:2rem;
+">
 
-<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
-<strong>Structural Health Monitoring</strong><br>
-Vibration, sensing, and data-driven condition assessment.
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+backdrop-filter:blur(10px);
+">
+
+<h3>Structural Health Monitoring</h3>
+
+Vibration-based and data-driven methods for damage detection, localization, and infrastructure condition assessment.
+
 </div>
 
-<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
-<strong>Digital Twins</strong><br>
-Real-time models integrating mechanics, sensing, and AI.
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+backdrop-filter:blur(10px);
+">
+
+<h3>Digital Twins</h3>
+
+Real-time infrastructure modelling integrating sensing, mechanics, and artificial intelligence.
+
 </div>
 
-<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
-<strong>Physics-Informed ML</strong><br>
-Learning constrained by governing equations and mechanics.
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+backdrop-filter:blur(10px);
+">
+
+<h3>Physics-Informed ML</h3>
+
+Machine learning constrained by governing equations, continuum mechanics, and scientific principles.
+
 </div>
 
-<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
-<strong>Computer Vision</strong><br>
-Image/video-based displacement, vibration, and damage sensing.
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+backdrop-filter:blur(10px);
+">
+
+<h3>Computer Vision</h3>
+
+Image and video-based sensing for vibration measurement, displacement tracking, and structural inspection.
+
 </div>
 
 </div>
 
 ---
 
-## Opportunities
+## Featured Publications
 
-I welcome motivated undergraduate, M.Tech, PhD, and postdoctoral researchers interested in AI/ML, SHM, digital twins, sensing, and scientific computing.
+<div style="
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+gap:1.5rem;
+margin-top:2rem;
+">
 
-[View Openings](/ashish-pal-website/openings/)
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+">
+
+<div style="
+font-size:0.9rem;
+color:#94a3b8;
+margin-bottom:0.8rem;
+">
+
+Mechanical Systems and Signal Processing • 2025
+
+</div>
+
+<h3 style="margin-top:0;">
+
+ Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems
+
+</h3>
+
+<p>
+
+Physics-informed machine learning for scientific discovery.
+
+</p>
+
+<a href="/ashish-pal-website/publications/"
+style="
+color:#60a5fa;
+text-decoration:none;
+font-weight:600;
+">
+
+View Publication →
+
+</a>
+
+</div>
+
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+">
+
+<div style="
+font-size:0.9rem;
+color:#94a3b8;
+margin-bottom:0.8rem;
+">
+
+Mechanical Systems and Signal Processing • 2024
+
+</div>
+
+<h3 style="margin-top:0;">
+
+Sparsity promoting algorithm for identification of nonlinear dynamic system based on Unscented Kalman Filter using novel selective thresholding and penalty-based model selection
+
+</h3>
+
+<p>
+
+Kalman filter-based system identification of nonlinear structural dynamics.
+
+</p>
+
+<a href="/ashish-pal-website/publications/"
+style="
+color:#60a5fa;
+text-decoration:none;
+font-weight:600;
+">
+
+View Publication →
+
+</a>
+
+</div>
+
+<div style="
+padding:1.5rem;
+border-radius:22px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+">
+
+<div style="
+font-size:0.9rem;
+color:#94a3b8;
+margin-bottom:0.8rem;
+">
+
+Mechanical Systems and Signal Processing • 2024
+
+</div>
+
+<h3 style="margin-top:0;">
+
+Data fusion based on short-term memory Kalman filtering using intermittent-displacement and acceleration signal with a time-varying bias
+
+</h3>
+
+<p>
+
+Fusion of heterogreneous sensor data for high-fidelity sensing.
+
+</p>
+
+<a href="/ashish-pal-website/publications/"
+style="
+color:#60a5fa;
+text-decoration:none;
+font-weight:600;
+">
+
+View Publication →
+
+</a>
+
+</div>
+
+</div>

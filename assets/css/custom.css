@@ -1,25 +1,21 @@
-/* Wider research-lab style layout */
+.homepage-banner {
+  width: 100%;
+  max-width: 1900px;
+  margin: 1.5rem auto;
+  border-radius: 18px;
+  display: block;
+}
 
 .max-w-prose {
-  max-width: min(92vw, 1600px) !important;
+  max-width: min(96vw, 1850px) !important;
 }
 
 .max-w-7xl {
-  max-width: min(95vw, 1700px) !important;
+  max-width: min(97vw, 1900px) !important;
 }
 
 main {
-  max-width: min(95vw, 1700px);
+  max-width: min(97vw, 1900px);
   margin-left: auto;
   margin-right: auto;
-}
-
-/* Homepage banner */
-
-.homepage-banner {
-  width: 100%;
-  max-width: 1700px;
-  margin: 2rem auto;
-  border-radius: 24px;
-  display: block;
 }
