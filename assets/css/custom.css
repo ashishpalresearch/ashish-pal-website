@@ -1,52 +1,25 @@
-body {
-    font-family: "Inter", "Segoe UI", sans-serif;
-    line-height: 1.7;
+/* Wider research-lab style layout */
+
+.max-w-prose {
+  max-width: min(92vw, 1600px) !important;
 }
 
-h1, h2, h3 {
-    color: #0f172a;
-    font-weight: 700;
+.max-w-7xl {
+  max-width: min(95vw, 1700px) !important;
 }
 
-p {
-    color: #334155;
+main {
+  max-width: min(95vw, 1700px);
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.research-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.6rem;
-    margin-top: 2rem;
-}
+/* Homepage banner */
 
-.research-card {
-    background: white;
-    border-radius: 18px;
-    padding: 1.6rem;
-    border: 1px solid #e2e8f0;
-    box-shadow: 0 8px 28px rgba(0,0,0,0.06);
-    transition: transform 0.25s ease;
-}
-
-.research-card:hover {
-    transform: translateY(-5px);
-}
-
-.research-card h3 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-
-.research-card p {
-    margin-bottom: 0;
-}
-
-.hero-title {
-    font-size: 3rem;
-    font-weight: 800;
-}
-
-.hero-subtitle {
-    font-size: 1.3rem;
-    color: #475569;
+.homepage-banner {
+  width: 100%;
+  max-width: 1700px;
+  margin: 2rem auto;
+  border-radius: 24px;
+  display: block;
 }

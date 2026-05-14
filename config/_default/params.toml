@@ -5,6 +5,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+customCSS = ["css/custom.css"]
 
 mainSections = ["posts"]
 

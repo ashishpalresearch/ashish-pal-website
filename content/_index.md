@@ -1,37 +1,98 @@
 ---
-title: "Home"
-featured_image: "/images/home-banner-2.png"
+title: ""
+layout: "simple"
+showTitle: false
+showDate: false
+showReadingTime: false
 ---
 
-<div class="hero-title">
-AI, Mechanics, and Digital Twins for Intelligent Infrastructure
+<img class="homepage-banner"
+     src="/ashish-pal-website/images/home-banner-4.png">
+
+<br>
+
+---
+
+<div style="
+display:grid;
+grid-template-columns:320px 1fr;
+gap:2.5rem;
+align-items:center;
+margin-top:4rem;
+margin-bottom:4rem;
+">
+
+<div>
+
+<img src="/ashish-pal-website/images/profile.jpeg"
+style="
+width:100%;
+border-radius:24px;
+box-shadow:0 10px 30px rgba(0,0,0,0.35);
+">
+
 </div>
 
-<div class="hero-subtitle">
-Research in structural health monitoring, scientific computing, computer vision, and physics-informed machine learning for resilient civil infrastructure.
-</div>
+<div>
 
----
+# Prof. Ashish Pal
 
-# Research Vision
+Assistant Professor  
+Department of Civil Engineering  
+Indian Institute of Technology Bombay
 
-Developing mechanics-informed intelligent systems capable of sensing, learning, predicting, and supporting decision-making for civil infrastructure.
+<br>
 
----
+My research focuses on developing mechanics-informed intelligent systems for structural health monitoring, digital twins, scientific computing, and AI-assisted infrastructure monitoring.
 
-# Research Areas
+The goal is to build resilient infrastructure systems capable of autonomous sensing, interpretation, prediction, and decision support through the integration of mechanics, sensing technologies, and machine intelligence.
+
+<br>
+
+### Core Areas
 
 - Structural Health Monitoring
-- Digital Twins
 - Physics-Informed Machine Learning
+- Digital Twins
+- Computer Vision
 - Scientific Computing
-- Computer Vision for Infrastructure
-- Drone-Based Monitoring
-- Uncertainty Quantification
-- System Identification
+- Infrastructure Sensing
+
+</div>
+
+</div>
+
+
+## Research Areas
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:1.5rem;">
+
+<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
+<strong>Structural Health Monitoring</strong><br>
+Vibration, sensing, and data-driven condition assessment.
+</div>
+
+<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
+<strong>Digital Twins</strong><br>
+Real-time models integrating mechanics, sensing, and AI.
+</div>
+
+<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
+<strong>Physics-Informed ML</strong><br>
+Learning constrained by governing equations and mechanics.
+</div>
+
+<div style="padding:1.2rem;border:1px solid #334155;border-radius:18px;">
+<strong>Computer Vision</strong><br>
+Image/video-based displacement, vibration, and damage sensing.
+</div>
+
+</div>
 
 ---
 
-# Opportunities
+## Opportunities
 
-Openings are available for motivated students interested in AI/ML, sensing, computational mechanics, scientific machine learning, and intelligent infrastructure systems.
+I welcome motivated undergraduate, M.Tech, PhD, and postdoctoral researchers interested in AI/ML, SHM, digital twins, sensing, and scientific computing.
+
+[View Openings](/ashish-pal-website/openings/)
