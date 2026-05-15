@@ -29,7 +29,7 @@ pageRef = "team"
 weight = 45
 
 [[main]]
-name = "Openings"
+name = "Join"
 pageRef = "openings"
 weight = 50
 

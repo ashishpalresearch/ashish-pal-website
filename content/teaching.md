@@ -86,3 +86,9 @@ Students are encouraged to explore interdisciplinary projects involving:
 ## Teaching Philosophy
 
 The teaching approach emphasizes conceptual clarity, physical interpretation, mathematical foundations, and practical implementation through computational examples and real-world engineering applications.
+
+---
+
+## Teaching and Research Projects
+
+Students interested in course projects, B.Tech projects, M.Tech thesis work, or PhD research related to structural dynamics, finite element methods, scientific computing, structural health monitoring, and AI/ML for engineering systems are encouraged to explore the [Research page](/ashish-pal-website/research/) and [Join the Group page](/ashish-pal-website/openings/).

@@ -6,10 +6,19 @@
     <loc>http://localhost:1313/ashish-pal-website/contact/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/uncertainty-quantification/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/ashish-pal-website/openings/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/system-identification/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/ashish-pal-website/team/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/drone-monitoring/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/teaching/</loc>
@@ -18,12 +27,30 @@
     <loc>http://localhost:1313/ashish-pal-website/publications/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/scientific-computing/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/computer-vision/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/ashish-pal-website/research/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/about/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/physics-informed-ml/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/digital-twins/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/structural-health-monitoring/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/ashish-pal-website/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/</loc>
   </url>
 </urlset>

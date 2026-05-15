@@ -78,6 +78,14 @@ Remote and non-contact infrastructure monitoring using drones and vision-based s
 
 ---
 
+## For Prospective Students
+
+The research group is actively growing and welcomes motivated PhD and M.Tech students interested in mechanics-informed AI, structural health monitoring, digital twins, scientific machine learning, computer vision, and infrastructure sensing.
+
+Students interested in these directions are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/openings/).
+
+---
+
 ## Collaboration
 
 Collaborations are welcome in areas related to:
@@ -90,3 +98,5 @@ Collaborations are welcome in areas related to:
 - Computational mechanics
 - Vision-based monitoring
 - Physics-guided artificial intelligence
+
+For research collaborations, student opportunities, workshops, or invited talks, please use the contact information provided on the [Contact page](/ashish-pal-website/contact/).

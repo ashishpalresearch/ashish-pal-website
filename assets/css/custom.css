@@ -121,6 +121,27 @@ main {
   line-height: 1.7;
 }
 
+.research-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.research-card-link:hover {
+  text-decoration: none;
+}
+
+.card-link-text {
+  display: inline-block;
+  margin-top: 0.8rem;
+  color: #60a5fa;
+  font-weight: 700;
+}
+
+.research-card-link:hover .card-link-text {
+  text-decoration: underline;
+}
+
 @media (max-width: 1000px) {
   .research-grid {
     grid-template-columns: 1fr;
@@ -160,5 +181,126 @@ main {
 
   .featured-projects {
     padding: 40px 0;
+  }
+}
+
+.student-callout {
+  margin: 1.5rem 0 2.5rem 0;
+  padding: 1.1rem 1.4rem;
+  border-radius: 18px;
+  background: rgba(96, 165, 250, 0.10);
+  border: 1px solid rgba(96, 165, 250, 0.28);
+  color: #e5e7eb;
+  line-height: 1.7;
+}
+
+.student-callout strong {
+  color: white;
+  font-weight: 700;
+}
+
+.student-callout a {
+  color: #60a5fa;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left: 0.6rem;
+}
+
+.student-callout a:hover {
+  text-decoration: underline;
+}
+
+.hero-callout {
+  max-width: 100%;
+}
+
+@media (max-width: 900px) {
+  .student-callout {
+    margin: 1rem 0 2rem 0;
+    padding: 1rem 1.1rem;
+  }
+
+  .student-callout a {
+    display: inline-block;
+    margin-left: 0;
+    margin-top: 0.4rem;
+  }
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  gap: 1.8rem;
+  margin-top: 2rem;
+}
+
+.team-card {
+  width: 100%;
+  padding: 1.25rem 1.4rem;
+  border-radius: 22px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(0,0,0,0.28);
+}
+
+.team-photo {
+  width: 115px;
+  height: 115px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  margin: 0 auto 0.9rem auto;
+  display: block;
+  border: 2px solid rgba(255,255,255,0.16);
+}
+
+.team-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  color: white;
+}
+
+.team-role {
+  color: #60a5fa;
+  font-weight: 600;
+  margin-bottom: 0.65rem;
+}
+
+.team-card p {
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-bottom: 0.7rem;
+}
+
+.team-card ul {
+  text-align: left;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1100px) {
+  .team-grid {
+    grid-template-columns: repeat(2, minmax(280px, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-photo {
+    width: 110px;
+    height: 110px;
   }
 }

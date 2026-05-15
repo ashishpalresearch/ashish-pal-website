@@ -1,8 +1,16 @@
 <div class="research-grid">
   {{ range .Page.Params.research_cards }}
-    <div class="research-card">
-      <h3>{{ .title }}</h3>
-      <p>{{ .description }}</p>
-    </div>
+    {{ if .link }}
+      <a class="research-card research-card-link" href="{{ .link }}">
+        <h3>{{ .title }}</h3>
+        <p>{{ .description }}</p>
+        <span class="card-link-text">View projects →</span>
+      </a>
+    {{ else }}
+      <div class="research-card">
+        <h3>{{ .title }}</h3>
+        <p>{{ .description }}</p>
+      </div>
+    {{ end }}
   {{ end }}
 </div>
