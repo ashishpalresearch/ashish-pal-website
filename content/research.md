@@ -45,3 +45,35 @@ My research focuses on mechanics-informed intelligent systems for monitoring, mo
 The work is organized around the following research themes. Each theme connects to possible student projects, graduate research directions, and collaborative opportunities.
 
 {{< research-cards >}}
+
+---
+
+## Sponsored Research
+
+<div class="project-grid">
+
+<div class="project-card">
+<h3>Mechanics-Informed Digital Twinning for Civil Infrastructure Monitoring</h3>
+
+<p class="project-meta">
+<strong>Funding Agency:</strong> Anusandhan National Research Foundation (ANRF) <br>
+<strong>Scheme:</strong> Early Career Research Grant <br>
+<strong>Role:</strong> Principal Investigator <br>
+<strong>Status:</strong> Ongoing
+</p>
+
+<p>
+This project focuses on developing mechanics-informed digital twin frameworks for civil infrastructure by integrating structural mechanics, sensing data, scientific machine learning, and uncertainty-aware decision support. The work aims to support reliable structural health monitoring, state estimation, and predictive assessment of bridges and building-type systems.
+</p>
+
+<p class="project-tags">
+<span>ANRF-ECRG</span>
+<span>Digital Twins</span>
+<span>Structural Health Monitoring</span>
+<span>Physics-Informed ML</span>
+<span>Scientific Machine Learning</span>
+</p>
+
+</div>
+
+</div>

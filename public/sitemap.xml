@@ -24,6 +24,9 @@
     <loc>http://localhost:1313/ashish-pal-website/teaching/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ashish-pal-website/projects/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/ashish-pal-website/publications/</loc>
   </url>
   <url>
@@ -40,6 +43,9 @@
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/research-themes/physics-informed-ml/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/activities/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/research-themes/digital-twins/</loc>
