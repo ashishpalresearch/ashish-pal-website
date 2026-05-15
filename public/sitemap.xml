@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/about/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/research/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/publications/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/teaching/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/contact/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/openings/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/contact/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/teaching/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/publications/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/research/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/about/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/</loc>
