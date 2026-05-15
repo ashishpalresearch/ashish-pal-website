@@ -1,5 +1,8 @@
 colorScheme = "slate"
 
+logo = "images/iitb-logo.png"
+disableTextInHeader = false
+
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
