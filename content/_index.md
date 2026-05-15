@@ -268,3 +268,84 @@ View Publication →
 </div>
 
 </div>
+
+---
+
+## Featured Projects
+
+Selected research directions connecting sensing, mechanics, and artificial intelligence for resilient infrastructure.
+
+<div class="project-grid">
+
+<div class="project-card">
+
+### Digital Twin for Civil Infrastructure
+
+Physics-guided and data-driven modelling framework for real-time state estimation and decision support.
+
+[Learn more →](/ashish-pal-website/research/)
+
+</div>
+
+<div class="project-card">
+
+### Computer Vision for Damage Detection
+
+AI-enabled visual inspection methods for detecting, localizing, and quantifying structural damage.
+
+[Learn more →](/ashish-pal-website/research/)
+
+</div>
+
+<div class="project-card">
+
+### Physics-Informed Machine Learning
+
+Integrating continuum mechanics, PDE models, and machine learning for interpretable scientific computing.
+
+[Learn more →](/ashish-pal-website/research/)
+
+</div>
+
+</div>
+
+---
+
+
+## Opportunities
+
+I am looking for motivated students and collaborators interested in structural health monitoring, digital twins, scientific computing, and AI/ML for civil infrastructure.
+
+<div class="project-grid">
+
+<div class="project-card">
+
+### PhD / Postdoctoral Research
+
+Opportunities in mechanics-informed AI, structural health monitoring, digital twins, and scientific machine learning.
+
+[View opportunities →](/ashish-pal-website/openings/)
+
+</div>
+
+<div class="project-card">
+
+### Undergraduate / Master’s Projects
+
+Short-term and long-term projects involving sensing, computer vision, vibration analysis, and computational modelling.
+
+[Explore projects →](/ashish-pal-website/research/)
+
+</div>
+
+<div class="project-card">
+
+### Collaboration
+
+Open to academic and industry collaborations on resilient infrastructure, smart sensing, and AI-assisted engineering systems.
+
+[Contact me →](/ashish-pal-website/contact/)
+
+</div>
+
+</div>

@@ -1,5 +1,11 @@
 ---
 title: "Research"
+weight: 50
+showDate: false
+showReadingTime: false
+showWordCount: false
+showTaxonomies: false
+showAuthor: false
 
 research_cards:
   - title: "Structural Health Monitoring"
@@ -19,9 +25,6 @@ research_cards:
   - title: "Uncertainty Quantification"
     description: "Quantifying modelling, sensing, and prediction uncertainty for informed infrastructure decisions."
 ---
-
-# Research
-
 My research focuses on mechanics-informed intelligent systems for monitoring, modelling, and decision-making in civil infrastructure.
 
 {{< research-cards >}}

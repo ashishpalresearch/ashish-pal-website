@@ -19,3 +19,110 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.featured-projects {
+  padding: 70px 24px;
+}
+
+.featured-projects .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featured-projects h2 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: white;
+}
+
+.section-subtitle {
+  max-width: 760px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #475569;
+  margin-bottom: 36px;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.project-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 22px;
+  padding: 28px;
+  backdrop-filter: blur(10px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.1);
+}
+
+.project-card h3 {
+  color: white;
+}
+
+.project-card p {
+  color: #cbd5e1;
+}
+
+.project-card a {
+  color: #2563eb;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  gap: 1.8rem;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.research-card {
+  padding: 1.5rem;
+  border-radius: 22px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(0,0,0,0.28);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  color: white;
+}
+
+.research-card p {
+  color: #cbd5e1;
+  line-height: 1.7;
+}
+
+@media (max-width: 1000px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -47,7 +47,7 @@ for entry in bib_database.entries:
         "authors": authors,
         "journal": journal,
         "year": year,
-        "doi": doi or url,
+        "link": doi or url,
         "type": pub_type,
         "venue_label": venue_label
     })

@@ -1,28 +1,110 @@
 {{ $pubs := sort site.Data.publications "year" "desc" }}
 
+<style>
+.publication-section {
+  margin-top: 4rem;
+}
+
+.publication-section h2 {
+  color: white;
+  margin-bottom: 1.5rem;
+}
+
+.publication-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.publication-card {
+  padding: 1.6rem;
+  border-radius: 22px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(0,0,0,0.28);
+}
+
+.publication-title {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: white;
+  line-height: 1.5;
+  font-size: 1.15rem;
+}
+
+.publication-authors {
+  color: #cbd5e1;
+  margin-bottom: 0.7rem;
+  line-height: 1.6;
+}
+
+.publication-meta {
+  color: #94a3b8;
+  margin-bottom: 1rem;
+}
+
+.publication-links a {
+  color: #60a5fa;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.publication-links a:hover {
+  text-decoration: underline;
+}
+</style>
+
 {{ range slice "Journal Articles" "Conference Papers" "Books / Book Chapters" "arXiv Preprints" }}
 
   {{ $section := . }}
   {{ $items := where $pubs "type" $section }}
 
   {{ if $items }}
+
+  <div class="publication-section">
+
     <h2>{{ $section }}</h2>
 
-    {{ range $items }}
-      <div style="margin-bottom:2rem;padding:1.2rem;border-radius:14px;border:1px solid #e2e8f0;box-shadow:0 4px 14px rgba(0,0,0,0.05);">
-        <h3 style="margin-top:0;">{{ .title }}</h3>
+    <div class="publication-list">
 
-        <p><strong>Authors:</strong> {{ .authors }}</p>
+      {{ range $items }}
 
-        <p><strong>{{ .venue_label }}:</strong> {{ .journal }} ({{ .year }})</p>
+      <div class="publication-card">
+
+        <h3 class="publication-title">
+          {{ .title }}
+        </h3>
+
+        <div class="publication-authors">
+          <strong>Authors:</strong> {{ .authors }}
+        </div>
+
+        <div class="publication-meta">
+          <strong>{{ .venue_label }}:</strong>
+          {{ .journal }} ({{ .year }})
+        </div>
 
         {{ if .link }}
-        <p>
-          <a href="{{ .link }}" target="_blank">View Publication</a>
-        </p>
+        <div class="publication-links">
+          <a href="{{ .link }}" target="_blank">
+            View Publication →
+          </a>
+        </div>
         {{ end }}
+
       </div>
-    {{ end }}
+
+      {{ end }}
+
+    </div>
+
+  </div>
 
   {{ end }}
 

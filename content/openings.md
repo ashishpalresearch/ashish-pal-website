@@ -1,16 +1,24 @@
 ---
 title: "Openings"
+weight: 20
+showDate: false
+showReadingTime: false
+showWordCount: false
+showTaxonomies: false
+showAuthor: false
 ---
-
-# Openings
 
 Motivated students interested in artificial intelligence, structural engineering, scientific computing, sensing technologies, and digital twins are encouraged to contact me for potential research opportunities.
 
 ---
 
-# Available Opportunities
+## Available Opportunities
 
-## Undergraduate Projects
+<div class="research-grid">
+
+<div class="research-card">
+
+### Undergraduate Projects
 
 Projects are available in areas such as:
 
@@ -23,11 +31,13 @@ Projects are available in areas such as:
 
 Students with programming experience in Python or MATLAB are preferred.
 
----
+</div>
 
-## M.Tech Projects
+<div class="research-card">
 
-Potential M.Tech thesis areas include:
+### M.Tech Projects
+
+Potential thesis areas include:
 
 - Structural health monitoring
 - Digital twins of civil infrastructure
@@ -36,9 +46,11 @@ Potential M.Tech thesis areas include:
 - Vision-based displacement measurement
 - Scientific machine learning
 
----
+</div>
 
-## PhD Positions
+<div class="research-card">
+
+### PhD Positions
 
 Prospective PhD students are encouraged to contact me if interested in research involving:
 
@@ -49,11 +61,15 @@ Prospective PhD students are encouraged to contact me if interested in research 
 - Multi-modal sensing and data fusion
 - Scientific computing for engineering systems
 
-Strong motivation and interest in research are essential.
+Strong motivation and research interest are essential.
+
+</div>
+
+</div>
 
 ---
 
-# Expected Skills
+## Expected Background
 
 Useful background areas include:
 
@@ -69,18 +85,14 @@ Prior expertise is not mandatory, but willingness to learn is important.
 
 ---
 
-# How to Apply
+## Application Material
 
-Interested students should email the following:
+Interested students should email:
 
 - CV
 - Academic transcript
 - Brief statement of research interests
 - Relevant project or coding experience
 - Publications (if any)
-
----
-
-# Contact
 
 Please use the contact information provided on the Contact page for inquiries regarding research opportunities.
