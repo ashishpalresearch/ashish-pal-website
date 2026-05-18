@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Uncertainty Quantification</title>
+  <desc id="desc">Confidence, risk, and decision support for infrastructure</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg { fill: url(#bg); }
+      .grid { stroke: rgba(148,163,184,0.13); stroke-width: 1; }
+      .title { fill: #ffffff; font-family: Inter, Arial, sans-serif; font-size: 44px; font-weight: 800; }
+      .subtitle { fill: #cbd5e1; font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 500; }
+      .label { fill: #e5e7eb; font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 700; }
+      .small { fill: #bfdbfe; font-family: Inter, Arial, sans-serif; font-size: 18px; font-weight: 600; }
+      .line { stroke: #60a5fa; stroke-width: 5; stroke-linecap: round; }
+      .soft { fill: rgba(96,165,250,0.14); stroke: rgba(96,165,250,0.45); stroke-width: 2; }
+      .box { fill: rgba(15,23,42,0.70); stroke: rgba(96,165,250,0.50); stroke-width: 2; }
+      .accent { fill: url(#blue); filter: url(#glow); }
+      .accent2 { fill: url(#purple); filter: url(#glow); }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="720" rx="38"/>
+  <g opacity="0.65">
+    <path class="grid" d="M100 90H1100M100 190H1100M100 290H1100M100 390H1100M100 490H1100M100 590H1100"/>
+    <path class="grid" d="M120 70V650M260 70V650M400 70V650M540 70V650M680 70V650M820 70V650M960 70V650M1100 70V650"/>
+  </g>
+  <circle cx="1050" cy="120" r="130" fill="rgba(96,165,250,0.12)"/>
+  <circle cx="120" cy="630" r="160" fill="rgba(168,85,247,0.13)"/>
+  <text class="title" x="70" y="90">Uncertainty Quantification</text>
+  <text class="subtitle" x="72" y="126">Confidence, risk, and decision support for infrastructure</text>
+  
+  <g transform="translate(105,175)">
+    <rect class="box" x="80" y="80" width="820" height="360" rx="26"/>
+    <path d="M145 320 C270 210, 390 260, 520 180 C640 110, 750 155, 850 105" fill="none" stroke="rgba(96,165,250,0.22)" stroke-width="90" stroke-linecap="round"/>
+    <path d="M145 320 C270 210, 390 260, 520 180 C640 110, 750 155, 850 105" fill="none" stroke="rgba(96,165,250,0.42)" stroke-width="48" stroke-linecap="round"/>
+    <path d="M145 320 C270 210, 390 260, 520 180 C640 110, 750 155, 850 105" fill="none" stroke="#60a5fa" stroke-width="10" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M730 75 V445" stroke="#f8fafc" stroke-width="5" stroke-linecap="round"/>
+    <text class="small" x="752" y="100">Decision threshold</text>
+    <rect class="soft" x="95" y="500" width="230" height="62" rx="18"/>
+    <rect class="soft" x="375" y="500" width="230" height="62" rx="18"/>
+    <rect class="soft" x="655" y="500" width="250" height="62" rx="18"/>
+    <text class="small" x="165" y="539">Prediction</text>
+    <text class="small" x="430" y="539">Confidence</text>
+    <text class="small" x="725" y="539">Decision Support</text>
+  </g>
+
+</svg>

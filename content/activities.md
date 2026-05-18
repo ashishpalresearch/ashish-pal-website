@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-weight: 65
+weight: 15
 showDate: false
 showReadingTime: false
 showWordCount: false

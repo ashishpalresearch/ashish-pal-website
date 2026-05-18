@@ -20,23 +20,12 @@ I am actively looking for motivated PhD candidates interested in mechanics-infor
 
 ---
 
-<div style="
-display:grid;
-grid-template-columns:320px 1fr;
-gap:2.5rem;
-align-items:flex-start;
-margin-top:2.5rem;
-margin-bottom:4rem;
-">
+<div class="home-profile-grid">
 
 <div>
 
-<img src="/ashish-pal-website/images/profile.jpeg"
-style="
-width:100%;
-border-radius:24px;
-box-shadow:0 10px 30px rgba(0,0,0,0.35);
-">
+<img class="home-profile-photo"
+     src="/ashish-pal-website/images/profile.jpeg">
 
 </div>
 
@@ -73,64 +62,37 @@ The goal is to build resilient infrastructure systems capable of autonomous sens
 
 ## Research Areas
 
-<div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-gap:1.5rem;
-margin-top:2rem;
-">
+<section class="home-section">
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-backdrop-filter:blur(10px);
-">
+<div class="home-grid four-col">
 
-<h3>Structural Health Monitoring</h3>
+<div class="home-card">
+
+### Structural Health Monitoring
 
 Vibration-based and data-driven methods for damage detection, localization, and infrastructure condition assessment.
 
 </div>
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-backdrop-filter:blur(10px);
-">
+<div class="home-card">
 
-<h3>Digital Twins</h3>
+### Digital Twins
 
 Real-time infrastructure modelling integrating sensing, mechanics, and artificial intelligence.
 
 </div>
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-backdrop-filter:blur(10px);
-">
+<div class="home-card">
 
-<h3>Physics-Informed ML</h3>
+### Physics-Informed ML
 
 Machine learning constrained by governing equations, continuum mechanics, and scientific principles.
 
 </div>
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-backdrop-filter:blur(10px);
-">
+<div class="home-card">
 
-<h3>Computer Vision</h3>
+### Computer Vision
 
 Image and video-based sensing for vibration measurement, displacement tracking, and structural inspection.
 
@@ -138,152 +100,70 @@ Image and video-based sensing for vibration measurement, displacement tracking, 
 
 </div>
 
+</section>
 ---
 
 ## Featured Publications
 
-<div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
-gap:1.5rem;
-margin-top:2rem;
-">
+<section class="home-section">
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-">
+<div class="home-grid">
 
-<div style="
-font-size:0.9rem;
-color:#94a3b8;
-margin-bottom:0.8rem;
-">
+<div class="home-card">
 
+<div class="home-card-meta">
 Mechanical Systems and Signal Processing • 2025
-
 </div>
 
-<h3 style="margin-top:0;">
-
- Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems
-
-</h3>
-
-<p>
+### Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems
 
 Physics-informed machine learning for scientific discovery.
 
-</p>
-
-<a href="/ashish-pal-website/publications/"
-style="
-color:#60a5fa;
-text-decoration:none;
-font-weight:600;
-">
-
-View Publication →
-
-</a>
+[View Publication →](/ashish-pal-website/publications/)
 
 </div>
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-">
+<div class="home-card">
 
-<div style="
-font-size:0.9rem;
-color:#94a3b8;
-margin-bottom:0.8rem;
-">
-
+<div class="home-card-meta">
 Mechanical Systems and Signal Processing • 2024
-
 </div>
 
-<h3 style="margin-top:0;">
-
-Sparsity promoting algorithm for identification of nonlinear dynamic system based on Unscented Kalman Filter using novel selective thresholding and penalty-based model selection
-
-</h3>
-
-<p>
+### Sparsity promoting algorithm for identification of nonlinear dynamic system based on Unscented Kalman Filter using novel selective thresholding and penalty-based model selection
 
 Kalman filter-based system identification of nonlinear structural dynamics.
 
-</p>
-
-<a href="/ashish-pal-website/publications/"
-style="
-color:#60a5fa;
-text-decoration:none;
-font-weight:600;
-">
-
-View Publication →
-
-</a>
+[View Publication →](/ashish-pal-website/publications/)
 
 </div>
 
-<div style="
-padding:1.5rem;
-border-radius:22px;
-background:rgba(255,255,255,0.03);
-border:1px solid rgba(255,255,255,0.08);
-">
+<div class="home-card">
 
-<div style="
-font-size:0.9rem;
-color:#94a3b8;
-margin-bottom:0.8rem;
-">
-
+<div class="home-card-meta">
 Mechanical Systems and Signal Processing • 2024
-
 </div>
 
-<h3 style="margin-top:0;">
+### Data fusion based on short-term memory Kalman filtering using intermittent-displacement and acceleration signal with a time-varying bias
 
-Data fusion based on short-term memory Kalman filtering using intermittent-displacement and acceleration signal with a time-varying bias
+Fusion of heterogeneous sensor data for high-fidelity sensing.
 
-</h3>
-
-<p>
-
-Fusion of heterogreneous sensor data for high-fidelity sensing.
-
-</p>
-
-<a href="/ashish-pal-website/publications/"
-style="
-color:#60a5fa;
-text-decoration:none;
-font-weight:600;
-">
-
-View Publication →
-
-</a>
+[View Publication →](/ashish-pal-website/publications/)
 
 </div>
 
 </div>
+
+</section>
 
 ---
 
 ## Featured Research Directions
 
-<div class="project-grid">
+<section class="home-section">
 
-<div class="project-card">
+<div class="home-grid">
+
+<div class="home-card">
 
 ### Mechanics-Informed AI for Structural Health Monitoring
 
@@ -293,7 +173,7 @@ Develop AI/ML models that combine structural dynamics, sensing data, and physica
 
 </div>
 
-<div class="project-card">
+<div class="home-card">
 
 ### Digital Twins for Civil Infrastructure
 
@@ -303,23 +183,33 @@ Create computational twins of bridges and building frames by integrating finite 
 
 </div>
 
-<div class="project-card">
+<div class="home-card">
 
 ### Vision-Based Infrastructure Monitoring
 
 Use cameras, drones, and computer vision to measure vibration, displacement, cracks, and visible damage in civil infrastructure systems.
 
-[Join the group →](/ashish-pal-website/openings/)
+[Join the group →](/ashish-pal-website/join/)
 
 </div>
 
 </div>
+
+</section>
 
 ---
 
 
 ## Join the Group
 
+<section class="home-section">
+
+<div class="student-callout hero-callout">
+
 Interested in PhD, M.Tech thesis, or B.Tech research projects in mechanics-informed AI, digital twins, structural health monitoring, and intelligent infrastructure systems?
 
-[View current opportunities →](/ashish-pal-website/openings/)
+<a href="/ashish-pal-website/openings/">View current opportunities →</a>
+
+</div>
+
+</section>

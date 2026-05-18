@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Structural Health Monitoring</title>
+  <desc id="desc">Sensing structural response to detect and assess damage</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg { fill: url(#bg); }
+      .grid { stroke: rgba(148,163,184,0.13); stroke-width: 1; }
+      .title { fill: #ffffff; font-family: Inter, Arial, sans-serif; font-size: 44px; font-weight: 800; }
+      .subtitle { fill: #cbd5e1; font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 500; }
+      .label { fill: #e5e7eb; font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 700; }
+      .small { fill: #bfdbfe; font-family: Inter, Arial, sans-serif; font-size: 18px; font-weight: 600; }
+      .line { stroke: #60a5fa; stroke-width: 5; stroke-linecap: round; }
+      .soft { fill: rgba(96,165,250,0.14); stroke: rgba(96,165,250,0.45); stroke-width: 2; }
+      .box { fill: rgba(15,23,42,0.70); stroke: rgba(96,165,250,0.50); stroke-width: 2; }
+      .accent { fill: url(#blue); filter: url(#glow); }
+      .accent2 { fill: url(#purple); filter: url(#glow); }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="720" rx="38"/>
+  <g opacity="0.65">
+    <path class="grid" d="M100 90H1100M100 190H1100M100 290H1100M100 390H1100M100 490H1100M100 590H1100"/>
+    <path class="grid" d="M120 70V650M260 70V650M400 70V650M540 70V650M680 70V650M820 70V650M960 70V650M1100 70V650"/>
+  </g>
+  <circle cx="1050" cy="120" r="130" fill="rgba(96,165,250,0.12)"/>
+  <circle cx="120" cy="630" r="160" fill="rgba(168,85,247,0.13)"/>
+  <text class="title" x="70" y="90">Structural Health Monitoring</text>
+  <text class="subtitle" x="72" y="126">Sensing structural response to detect and assess damage</text>
+  
+  <g transform="translate(115,205)">
+    <path d="M50 280 C260 210, 620 210, 890 280" fill="none" stroke="url(#blue)" stroke-width="24" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M155 285 L155 405 M745 285 L745 405" stroke="#94a3b8" stroke-width="18" stroke-linecap="round"/>
+    <circle class="accent" cx="250" cy="245" r="22"/>
+    <circle class="accent" cx="470" cy="230" r="22"/>
+    <circle class="accent" cx="690" cy="245" r="22"/>
+    <path d="M250 210 q28 -35 56 0 M470 195 q28 -35 56 0 M690 210 q28 -35 56 0" fill="none" stroke="#bfdbfe" stroke-width="4" stroke-linecap="round"/>
+    <rect class="box" x="60" y="465" width="240" height="70" rx="18"/>
+    <rect class="box" x="350" y="465" width="240" height="70" rx="18"/>
+    <rect class="box" x="640" y="465" width="260" height="70" rx="18"/>
+    <text class="small" x="115" y="508">Sensor Data</text>
+    <text class="small" x="392" y="508">Damage Features</text>
+    <text class="small" x="675" y="508">Condition Assessment</text>
+  </g>
+
+</svg>

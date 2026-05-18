@@ -39,16 +39,18 @@ pageRef = "openings"
 weight = 50
 
 [[main]]
-name = "Contact"
-pageRef = "contact"
-weight = 60
-
-[[main]]
 name = "Activities"
 pageRef = "activities"
 weight = 60
 
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 65
+
+
 [[main]]
 name = "CV"
 url = "/files/cv.pdf"
-weight = 65
+weight = 70
