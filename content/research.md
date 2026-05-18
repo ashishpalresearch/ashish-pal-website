@@ -49,7 +49,7 @@ The goal is to develop sensing and signal-processing methods that are not purely
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/vision-drone-monitoring-concept.svg" alt="Physics-guided sensing and signal processing for structural health monitoring">
+  <img src="/ashish-pal-website/images/research/T1.png" alt="Physics-guided sensing and signal processing for structural health monitoring">
 </div>
 
 </div>
@@ -73,7 +73,7 @@ A key goal is to move toward reliable damage diagnosis even when healthy baselin
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/shm-concept.svg" alt="Damage detection and localization in civil infrastructure">
+  <img src="/ashish-pal-website/images/research/T2.png" alt="Damage detection and localization in civil infrastructure">
 </div>
 
 </div>
@@ -97,7 +97,7 @@ The long-term objective is to support digital twins that are continuously update
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/digital-twin-concept.svg" alt="System identification and digital twin updating">
+  <img src="/ashish-pal-website/images/research/T3.png" alt="System identification and digital twin updating">
 </div>
 
 </div>
@@ -121,7 +121,7 @@ The emphasis is on scientific machine learning methods that preserve interpretab
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/physics-informed-ml-concept.svg" alt="Scientific machine learning and equation discovery">
+  <img src="/ashish-pal-website/images/research/T4.png" alt="Scientific machine learning and equation discovery">
 </div>
 
 </div>
@@ -145,7 +145,7 @@ The objective is to make SHM outputs more useful for engineering decisions by qu
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/uncertainty-decision-support-concept.svg" alt="Uncertainty-aware structural health monitoring and Bayesian inference">
+  <img src="/ashish-pal-website/images/research/T5.png" alt="Uncertainty-aware structural health monitoring and Bayesian inference">
 </div>
 
 </div>
@@ -169,7 +169,7 @@ The goal is to create new mechanics-aware representations and sensing ideas that
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/scientific-computing-system-id-concept.svg" alt="Foundational mechanics and approximation theory for structural health monitoring">
+  <img src="/ashish-pal-website/images/research/T6.png" alt="Foundational mechanics and approximation theory for structural health monitoring">
 </div>
 
 </div>

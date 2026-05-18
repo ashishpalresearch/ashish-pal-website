@@ -1,6 +1,6 @@
 ---
 title: "Scientific Machine Learning and Equation Discovery"
-weight: 40
+weight: 30
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -8,44 +8,63 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops scientific machine learning methods to discover governing equations, reduced-order models, response dictionaries, and interpretable dynamics from structural response data.
+This thrust develops scientific machine learning methods for discovering interpretable models of structural and dynamical systems from data.
+
+The emphasis is on combining data-driven learning with mechanics, governing equations, physical constraints, and reduced-order representations so that machine learning models remain meaningful for engineering analysis.
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>PDE-generated response dictionaries for damage detection</h3>
-<p>Generate libraries of response curves for different damage locations and severities, then match measured responses to dictionary entries.</p>
-<p class="research-project-meta">Level: Summer</p>
+<h3>Physics-guided model discovery for structural systems</h3>
+<p>This direction investigates how measured or simulated structural response data can be used to discover interpretable models that are consistent with mechanics.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
 <div class="research-project-tags">
-<span>PDE Dictionary</span><span>Damage Detection</span><span>Response Curves</span>
+<span>Scientific ML</span><span>Model Discovery</span><span>Mechanics</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Output-only PDE discovery for structural dynamics</h3>
-<p>Recover governing terms from measured structural response when input forces are unknown or only partially observed.</p>
-<p class="research-project-meta">Level: M.Tech / PhD</p>
+<h3>Equation discovery from structural response data</h3>
+<p>This direction explores whether governing relationships, reduced-order dynamics, or dominant physical terms can be inferred from response measurements.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
 <div class="research-project-tags">
-<span>PDE Discovery</span><span>Sparse Regression</span><span>Output-only Data</span>
+<span>Equation Discovery</span><span>Structural Dynamics</span><span>Data-driven Modelling</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Sparse identification of structural systems</h3>
-<p>Use derivative dictionaries, correlation screening, sparse regression, and interpretable model selection to identify structural dynamics.</p>
-<p class="research-project-meta">Level: PhD</p>
+<h3>Interpretable learning for dynamical systems</h3>
+<p>This direction develops learning models that are not only accurate but also interpretable in terms of structural behaviour, physical variables, and engineering mechanisms.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
 <div class="research-project-tags">
-<span>SINDy</span><span>Equation Discovery</span><span>Structural Dynamics</span>
+<span>Interpretable ML</span><span>Dynamical Systems</span><span>AI for Engineering</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Latent-space scientific discovery</h3>
-<p>Reduce high-dimensional structural response data to lower-dimensional latent coordinates, discover dynamics there, and map results back to physical fields.</p>
-<p class="research-project-meta">Level: PhD / Exploratory</p>
+<h3>Reduced-order and latent-space modelling</h3>
+<p>This direction studies how high-dimensional response fields can be represented using lower-dimensional coordinates while preserving the important physics of the system.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
 <div class="research-project-tags">
-<span>Latent Dynamics</span><span>Scientific ML</span><span>Reduced-order Models</span>
+<span>Reduced-order Models</span><span>Latent Dynamics</span><span>Scientific Computing</span>
+</div>
+</div>
+
+<div class="research-project-card">
+<h3>Physics-guided response libraries</h3>
+<p>This direction explores how structural response patterns can be organized into reusable libraries for interpretation, diagnosis, and model comparison.</p>
+<p class="research-project-meta">Suitable for: M.Tech / Research Interns</p>
+<div class="research-project-tags">
+<span>Response Libraries</span><span>Physics-guided AI</span><span>SHM</span>
 </div>
 </div>
 
 </div>
+
+## Useful Background
+
+Students interested in this thrust may benefit from background in differential equations, structural dynamics, numerical methods, machine learning, optimization, Python/MATLAB programming, or scientific computing.
+
+## Interested Students
+
+Interested students may contact me with a short statement describing their background and their interest in scientific machine learning, equation discovery, or interpretable AI for engineering systems.

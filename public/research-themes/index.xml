@@ -10,42 +10,12 @@
     <atom:link href="http://localhost:1313/ashish-pal-website/research-themes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Physics-guided Sensing and Signal Processing for SHM</title>
-      <link>http://localhost:1313/ashish-pal-website/research-themes/physics-guided-sensing/</link>
+      <title>Foundational Mechanics, Approximation Theory, and Bio-inspired Sensing</title>
+      <link>http://localhost:1313/ashish-pal-website/research-themes/foundational-mechanics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ashish-pal-website/research-themes/physics-guided-sensing/</guid>
-      <description>&lt;p&gt;This thrust develops physics-guided sensing, signal-processing, and computer-vision methods for structural health monitoring. The focus is on extracting reliable structural response from noisy, incomplete, multi-rate, and heterogeneous measurements.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;SRDD-based denoising for derivative estimation&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Use SRDD as a preprocessing engine to estimate velocity, acceleration, curvature, and higher-order derivatives from noisy structural response data.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: Summer / PhD&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;SRDD&lt;/span&gt;&lt;span&gt;Denoising&lt;/span&gt;&lt;span&gt;Derivatives&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Physics-informed computer vision for beam vibration&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Extract displacement histories, frequencies, mode shapes, and impulse responses from videos while enforcing structural dynamics constraints.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Damage Detection, Localization, and Condition Assessment</title>
-      <link>http://localhost:1313/ashish-pal-website/research-themes/damage-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/ashish-pal-website/research-themes/damage-detection/</guid>
-      <description>&lt;p&gt;This thrust develops mechanics-informed methods for detecting, localizing, and interpreting damage in civil infrastructure using response data, wave propagation, splines, dictionaries, and machine learning.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Spline-based damage detection in beams&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Fit polynomial and B-spline fields to measured or simulated displacement responses and use curvature or strain-energy changes as damage indicators.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: Summer&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;Splines&lt;/span&gt;&lt;span&gt;Curvature&lt;/span&gt;&lt;span&gt;Damage Detection&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;KAN for structural damage classification&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Evaluate whether Kolmogorov-Arnold Networks provide interpretable and data-efficient classification of structural damage states.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>System Identification and Digital Twin Updating</title>
-      <link>http://localhost:1313/ashish-pal-website/research-themes/system-identification-digital-twins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/ashish-pal-website/research-themes/system-identification-digital-twins/</guid>
-      <description>&lt;p&gt;This thrust develops methods to identify structural properties, reconstruct hidden states, track time-varying parameters, and update digital twins using monitoring data.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;SRDD-enhanced state estimation for structural dynamics&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Embed SRDD into displacement-velocity-acceleration reconstruction and filtering pipelines for noisy structural dynamic systems.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: M.Tech&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;SRDD&lt;/span&gt;&lt;span&gt;State Estimation&lt;/span&gt;&lt;span&gt;Filtering&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;KAN-based identification of time-varying stiffness and damping&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Use windowed system identification and KAN regression to track smooth and abrupt changes in structural stiffness and damping.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: M.Tech&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;KAN&lt;/span&gt;&lt;span&gt;Time-varying Systems&lt;/span&gt;&lt;span&gt;Stiffness&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Deep learning for non-stationary structural response&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Model structural responses where loading, stiffness, damping, boundary conditions, or environmental effects vary with time.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Scientific Machine Learning and Equation Discovery</title>
-      <link>http://localhost:1313/ashish-pal-website/research-themes/scientific-machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/ashish-pal-website/research-themes/scientific-machine-learning/</guid>
-      <description>&lt;p&gt;This thrust develops scientific machine learning methods to discover governing equations, reduced-order models, response dictionaries, and interpretable dynamics from structural response data.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;PDE-generated response dictionaries for damage detection&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Generate libraries of response curves for different damage locations and severities, then match measured responses to dictionary entries.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: Summer&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;PDE Dictionary&lt;/span&gt;&lt;span&gt;Damage Detection&lt;/span&gt;&lt;span&gt;Response Curves&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Output-only PDE discovery for structural dynamics&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Recover governing terms from measured structural response when input forces are unknown or only partially observed.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ashish-pal-website/research-themes/foundational-mechanics/</guid>
+      <description>&lt;p&gt;This thrust develops foundational mechanics-aware representations, approximation methods, and sensing concepts that support structural health monitoring and digital twin development.&lt;/p&gt;&#xA;&lt;p&gt;The aim is to create new mathematical and mechanical tools for representing structural response, damage fields, stiffness changes, and sensing mechanisms in ways that are useful for diagnosis and prediction.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Mechanics-aware approximation of structural response fields&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction studies how displacement, strain, curvature, stiffness, and damage-related fields can be represented using continuous and adaptive approximation functions.&lt;/p&gt;</description>
       
     </item>
     
@@ -55,17 +25,47 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/ashish-pal-website/research-themes/uncertainty-aware-shm/</guid>
-      <description>&lt;p&gt;This thrust develops uncertainty-aware methods for structural health monitoring, Bayesian inference, signal reconstruction, damage diagnosis, and decision support.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Uncertainty-aware completion of video-based vibration signals&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Reconstruct missing time-history segments when visual tracking is interrupted by occlusion and quantify the uncertainty in the reconstructed signal.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: Summer&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;Occlusion&lt;/span&gt;&lt;span&gt;Signal Completion&lt;/span&gt;&lt;span&gt;Uncertainty&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Bayesian uncertainty quantification for physics-guided SHM&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Quantify confidence in damage diagnosis, system identification, PDE inference, and digital twin predictions.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: PhD&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;Bayesian Inference&lt;/span&gt;&lt;span&gt;UQ&lt;/span&gt;&lt;span&gt;Damage Diagnosis&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Inverse Bayesian analysis for damage assessment&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Use prior information, measurement data, and mechanics-based models to infer damage parameters with quantified confidence.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This thrust develops uncertainty-aware methods for structural health monitoring, damage diagnosis, model updating, and decision support.&lt;/p&gt;&#xA;&lt;p&gt;The goal is to move from deterministic monitoring outputs toward confidence-aware interpretation, where engineers can understand not only what the model predicts, but also how uncertain or reliable that prediction is.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Uncertainty-aware structural diagnosis&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction studies how uncertainty in measurements, models, environmental conditions, and structural parameters affects damage detection and condition assessment.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Suitable for: PhD / M.Tech&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Foundational Mechanics, Approximation Theory, and Bio-inspired Sensing</title>
-      <link>http://localhost:1313/ashish-pal-website/research-themes/foundational-mechanics/</link>
+      <title>Scientific Machine Learning and Equation Discovery</title>
+      <link>http://localhost:1313/ashish-pal-website/research-themes/scientific-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ashish-pal-website/research-themes/foundational-mechanics/</guid>
-      <description>&lt;p&gt;This thrust develops foundational mechanics-aware representations, approximation functions, adaptive splines, continuous damage fields, and unconventional sensing concepts for structural health monitoring.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Hybrid polynomial and B-spline representation for damage detection&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Use global polynomial terms for smooth structural response and local B-spline terms for damage-induced spatial irregularities.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Level: M.Tech&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;research-project-tags&#34;&gt;&#xD;&#xA;&lt;span&gt;B-splines&lt;/span&gt;&lt;span&gt;Global-local Fields&lt;/span&gt;&lt;span&gt;Damage Detection&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Machine learning for optimal knot placement&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Train ML models to place spline knots adaptively where gradients, curvature, or damage-sensitive features are concentrated.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ashish-pal-website/research-themes/scientific-machine-learning/</guid>
+      <description>&lt;p&gt;This thrust develops scientific machine learning methods for discovering interpretable models of structural and dynamical systems from data.&lt;/p&gt;&#xA;&lt;p&gt;The emphasis is on combining data-driven learning with mechanics, governing equations, physical constraints, and reduced-order representations so that machine learning models remain meaningful for engineering analysis.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Physics-guided model discovery for structural systems&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction investigates how measured or simulated structural response data can be used to discover interpretable models that are consistent with mechanics.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>System Identification and Digital Twin Updating</title>
+      <link>http://localhost:1313/ashish-pal-website/research-themes/system-identification-digital-twins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ashish-pal-website/research-themes/system-identification-digital-twins/</guid>
+      <description>&lt;p&gt;This thrust develops methods to identify structural properties, reconstruct hidden states, track evolving behaviour, and update computational models using monitoring data.&lt;/p&gt;&#xA;&lt;p&gt;The long-term objective is to support digital twins that are not only visual representations, but mechanics-aware models that can evolve with measurements from real structures.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;State estimation for structural dynamic systems&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction develops methods to estimate structural states such as displacement, velocity, acceleration, modal response, and other hidden quantities from noisy or incomplete measurements.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Damage Detection, Localization, and Condition Assessment</title>
+      <link>http://localhost:1313/ashish-pal-website/research-themes/damage-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ashish-pal-website/research-themes/damage-detection/</guid>
+      <description>&lt;p&gt;This thrust develops mechanics-informed methods for detecting, localizing, and interpreting damage in civil infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;The goal is to move beyond black-box classification and develop damage diagnosis methods that are connected to structural response, deformation patterns, stiffness changes, wave propagation, and mechanics-based interpretation.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Mechanics-guided damage indicators&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction develops response-based indicators that can reveal stiffness loss, localized deterioration, or abnormal structural behaviour using displacement, strain, curvature, vibration, or energy-based information.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;research-project-meta&#34;&gt;Suitable for: PhD / M.Tech / Research Interns&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Physics-guided Sensing and Signal Processing for SHM</title>
+      <link>http://localhost:1313/ashish-pal-website/research-themes/physics-guided-sensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ashish-pal-website/research-themes/physics-guided-sensing/</guid>
+      <description>&lt;p&gt;This thrust develops physics-guided sensing, signal-processing, and computer-vision methods for structural health monitoring. The focus is on extracting reliable structural response from noisy, incomplete, multi-rate, and heterogeneous measurements.&lt;/p&gt;&#xA;&lt;p&gt;The broader goal is to convert raw measurements from cameras, accelerometers, strain sensors, drones, and other sensing systems into physically meaningful information about structural behaviour.&lt;/p&gt;&#xA;&lt;div class=&#34;research-project-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;research-project-card&#34;&gt;&#xD;&#xA;&lt;h3&gt;Noise-robust structural response reconstruction&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;This direction develops methods to reconstruct displacement, velocity, acceleration, curvature, and other response quantities from noisy structural measurements.&lt;/p&gt;</description>
       
     </item>
     

@@ -1,6 +1,6 @@
 ---
 title: "Physics-guided Sensing and Signal Processing for SHM"
-weight: 10
+weight: 60
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -10,78 +10,61 @@ showAuthor: false
 
 This thrust develops physics-guided sensing, signal-processing, and computer-vision methods for structural health monitoring. The focus is on extracting reliable structural response from noisy, incomplete, multi-rate, and heterogeneous measurements.
 
+The broader goal is to convert raw measurements from cameras, accelerometers, strain sensors, drones, and other sensing systems into physically meaningful information about structural behaviour.
+
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>SRDD-based denoising for derivative estimation</h3>
-<p>Use SRDD as a preprocessing engine to estimate velocity, acceleration, curvature, and higher-order derivatives from noisy structural response data.</p>
-<p class="research-project-meta">Level: Summer / PhD</p>
+<h3>Noise-robust structural response reconstruction</h3>
+<p>This direction develops methods to reconstruct displacement, velocity, acceleration, curvature, and other response quantities from noisy structural measurements.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
 <div class="research-project-tags">
-<span>SRDD</span><span>Denoising</span><span>Derivatives</span>
+<span>Signal Processing</span><span>Structural Dynamics</span><span>SHM</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Physics-informed computer vision for beam vibration</h3>
-<p>Extract displacement histories, frequencies, mode shapes, and impulse responses from videos while enforcing structural dynamics constraints.</p>
-<p class="research-project-meta">Level: Summer</p>
+<h3>Physics-informed computer vision for structural monitoring</h3>
+<p>This direction uses videos and images to estimate structural motion, vibration characteristics, deformation patterns, and other response quantities while using mechanics-based constraints to improve reliability.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
 <div class="research-project-tags">
-<span>Computer Vision</span><span>Vibration</span><span>SHM</span>
+<span>Computer Vision</span><span>Vibration</span><span>Mechanics</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Multi-rate Kalman filtering for sensor synchronization</h3>
-<p>Fuse camera, accelerometer, strain, and other measurements sampled at different rates to reconstruct synchronized structural states.</p>
-<p class="research-project-meta">Level: Summer / PhD</p>
+<h3>Heterogeneous and multi-rate sensor fusion</h3>
+<p>This direction studies how data from different sensors and sampling rates can be combined to obtain more reliable estimates of structural states and condition indicators.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
 <div class="research-project-tags">
-<span>Sensor Fusion</span><span>Kalman Filter</span><span>Multi-rate Data</span>
+<span>Sensor Fusion</span><span>Multi-rate Data</span><span>State Estimation</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>PCA-based relevance analysis of multi-modal SHM data</h3>
-<p>Identify which sensor modalities or features contribute most to distinguishing healthy and damaged structural states.</p>
-<p class="research-project-meta">Level: Summer</p>
+<h3>Full-field response estimation from visual data</h3>
+<p>This direction explores how images and videos can be used to infer spatially distributed displacement, strain, vibration, or modal response fields.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
 <div class="research-project-tags">
-<span>Multi-modal Data</span><span>PCA</span><span>Feature Relevance</span>
+<span>Full-field SHM</span><span>Vision</span><span>Strain</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Physics-informed learning for full-field strain prediction</h3>
-<p>Use visual data to infer full-field strain while enforcing mechanics-based constraints such as compatibility and equilibrium.</p>
-<p class="research-project-meta">Level: M.Tech</p>
+<h3>Field-oriented sensing using cameras, drones, and mobile platforms</h3>
+<p>This direction investigates scalable sensing methods for infrastructure monitoring using visual, mobile, and remote sensing platforms.</p>
+<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
 <div class="research-project-tags">
-<span>Full-field Strain</span><span>Vision</span><span>Mechanics</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Laser-assisted night-time computer vision for SHM</h3>
-<p>Use laser lines, projected patterns, or LiDAR-assisted visual features for structural monitoring under low-light conditions.</p>
-<p class="research-project-meta">Level: M.Tech</p>
-<div class="research-project-tags">
-<span>Night-time SHM</span><span>Laser Vision</span><span>Low-light Monitoring</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Computer vision-enabled full-field structural dynamics</h3>
-<p>Develop vision-based modal extraction, full-field response estimation, low-light tracking, occlusion handling, and mechanics-informed signal interpretation.</p>
-<p class="research-project-meta">Level: PhD</p>
-<div class="research-project-tags">
-<span>Full-field SHM</span><span>Structural Dynamics</span><span>Vision</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Drive-by and drone-based infrastructure monitoring</h3>
-<p>Use mobile platforms, drones, and vehicle-mounted sensing systems to collect structural response and visual inspection data at scale.</p>
-<p class="research-project-meta">Level: PhD</p>
-<div class="research-project-tags">
-<span>Drones</span><span>Drive-by Monitoring</span><span>Field SHM</span>
+<span>Drones</span><span>Mobile Sensing</span><span>Infrastructure</span>
 </div>
 </div>
 
 </div>
+
+## Useful Background
+
+Students interested in this thrust may benefit from background in structural dynamics, signal processing, computer vision, machine learning, Python/MATLAB programming, or experimental measurements.
+
+## Interested Students
+
+Interested students may contact me with a short statement describing their background, technical skills, and the type of sensing or monitoring problem they would like to work on.

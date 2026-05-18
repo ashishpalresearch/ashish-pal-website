@@ -3,10 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/contact/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/uncertainty-quantification/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/foundational-mechanics/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/activities/</loc>
@@ -15,13 +12,13 @@
     <loc>http://localhost:1313/ashish-pal-website/openings/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/system-identification/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/uncertainty-aware-shm/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/team/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/drone-monitoring/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/scientific-machine-learning/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/teaching/</loc>
@@ -33,10 +30,10 @@
     <loc>http://localhost:1313/ashish-pal-website/publications/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/scientific-computing/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/system-identification-digital-twins/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/computer-vision/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/damage-detection/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/research/</loc>
@@ -45,16 +42,13 @@
     <loc>http://localhost:1313/ashish-pal-website/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/physics-informed-ml/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/digital-twins/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ashish-pal-website/research-themes/structural-health-monitoring/</loc>
+    <loc>http://localhost:1313/ashish-pal-website/research-themes/physics-guided-sensing/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ashish-pal-website/contact/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/ashish-pal-website/research-themes/</loc>
