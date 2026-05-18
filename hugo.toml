@@ -1,6 +1,6 @@
 baseURL = "https://ashishpalresearch.github.io/ashish-pal-website/"
 languageCode = "en"
-title = "Prof. Ashish Pal"
+title = "RISE Lab"
 theme = "blowfish"
 
 [pagination]

@@ -8,63 +8,70 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops scientific machine learning methods for discovering interpretable models of structural and dynamical systems from data.
+This thrust focuses on scientific machine learning methods for understanding structural and dynamical systems from data.
 
-The emphasis is on combining data-driven learning with mechanics, governing equations, physical constraints, and reduced-order representations so that machine learning models remain meaningful for engineering analysis.
+The emphasis is on combining data-driven learning with mechanics, governing principles, physical constraints, and computational models so that machine learning methods remain meaningful for engineering analysis and infrastructure monitoring.
+
+---
+
+## What We Study
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>Physics-guided model discovery for structural systems</h3>
-<p>This direction investigates how measured or simulated structural response data can be used to discover interpretable models that are consistent with mechanics.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Scientific Machine Learning for Engineering Systems</h3>
+<p>Methods that combine machine learning with physical principles, numerical modelling, and engineering knowledge for structural and infrastructure applications.</p>
 <div class="research-project-tags">
-<span>Scientific ML</span><span>Model Discovery</span><span>Mechanics</span>
+<span>Scientific ML</span><span>Engineering Systems</span><span>Mechanics</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Equation discovery from structural response data</h3>
-<p>This direction explores whether governing relationships, reduced-order dynamics, or dominant physical terms can be inferred from response measurements.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Interpretable AI for Dynamical Systems</h3>
+<p>Learning approaches that aim to make predictions and representations more interpretable in terms of structural behaviour, physical variables, and engineering mechanisms.</p>
 <div class="research-project-tags">
-<span>Equation Discovery</span><span>Structural Dynamics</span><span>Data-driven Modelling</span>
+<span>Interpretable AI</span><span>Dynamical Systems</span><span>Structural Response</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Interpretable learning for dynamical systems</h3>
-<p>This direction develops learning models that are not only accurate but also interpretable in terms of structural behaviour, physical variables, and engineering mechanisms.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
+<h3>Physics-Guided Learning</h3>
+<p>Machine learning methods that use physical constraints, structural mechanics, and engineering insight to improve reliability, robustness, and generalization.</p>
 <div class="research-project-tags">
-<span>Interpretable ML</span><span>Dynamical Systems</span><span>AI for Engineering</span>
+<span>Physics-Guided AI</span><span>Robust Learning</span><span>SHM</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Reduced-order and latent-space modelling</h3>
-<p>This direction studies how high-dimensional response fields can be represented using lower-dimensional coordinates while preserving the important physics of the system.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Computational Modelling and Data</h3>
+<p>Approaches that connect simulation, measurement, and learning to support model interpretation, monitoring, and decision support in civil infrastructure systems.</p>
 <div class="research-project-tags">
-<span>Reduced-order Models</span><span>Latent Dynamics</span><span>Scientific Computing</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Physics-guided response libraries</h3>
-<p>This direction explores how structural response patterns can be organized into reusable libraries for interpretation, diagnosis, and model comparison.</p>
-<p class="research-project-meta">Suitable for: M.Tech / Research Interns</p>
-<div class="research-project-tags">
-<span>Response Libraries</span><span>Physics-guided AI</span><span>SHM</span>
+<span>Computational Modelling</span><span>Data-Driven Methods</span><span>Infrastructure</span>
 </div>
 </div>
 
 </div>
 
-## Useful Background
+---
+
+## Methods and Tools
+
+Research in this thrust may involve differential equations, structural dynamics, numerical methods, optimization, machine learning, scientific computing, and Python/MATLAB programming.
+
+The emphasis is on developing AI/ML tools that are not only accurate, but also interpretable, physically meaningful, and suitable for engineering use.
+
+---
+
+## Student Background
 
 Students interested in this thrust may benefit from background in differential equations, structural dynamics, numerical methods, machine learning, optimization, Python/MATLAB programming, or scientific computing.
 
+It is not necessary to have expertise in all areas. Specific topics are shaped based on the student’s background, interests, and expected time commitment.
+
+---
+
 ## Interested Students
 
-Interested students may contact me with a short statement describing their background and their interest in scientific machine learning, equation discovery, or interpretable AI for engineering systems.
+Students interested in scientific machine learning, interpretable AI, structural dynamics, computational modelling, or AI for engineering systems are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.

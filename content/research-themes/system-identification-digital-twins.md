@@ -8,63 +8,70 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops methods to identify structural properties, reconstruct hidden states, track evolving behaviour, and update computational models using monitoring data.
+This thrust focuses on identifying structural behaviour, estimating hidden response quantities, and updating computational models using monitoring data.
 
-The long-term objective is to support digital twins that are not only visual representations, but mechanics-aware models that can evolve with measurements from real structures.
+The long-term objective is to support digital twins that are not only visual representations, but data-informed and mechanics-aware models that can evolve with measurements from real civil infrastructure systems.
+
+---
+
+## What We Study
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>State estimation for structural dynamic systems</h3>
-<p>This direction develops methods to estimate structural states such as displacement, velocity, acceleration, modal response, and other hidden quantities from noisy or incomplete measurements.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Structural State Estimation</h3>
+<p>Methods for estimating important structural response quantities from measured data, especially when measurements are noisy, sparse, indirect, or incomplete.</p>
 <div class="research-project-tags">
-<span>State Estimation</span><span>Structural Dynamics</span><span>Filtering</span>
+<span>State Estimation</span><span>Structural Dynamics</span><span>Monitoring</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Identification of evolving structural properties</h3>
-<p>This direction studies how stiffness, damping, boundary conditions, and other structural properties can be inferred when a system changes with time, damage, environment, or loading.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>System Identification</h3>
+<p>Approaches for understanding structural properties and behaviour from response data using mechanics, computation, and data-driven modelling.</p>
 <div class="research-project-tags">
-<span>System Identification</span><span>Time-varying Systems</span><span>Damage Tracking</span>
+<span>System Identification</span><span>Structural Behaviour</span><span>Inverse Problems</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Learning models for non-stationary structural response</h3>
-<p>This direction explores learning-based and physics-guided approaches for modelling structural response under changing operational, environmental, or damage conditions.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Model Updating</h3>
+<p>Methods for improving computational models of structures using sensing data, experimental observations, and engineering constraints.</p>
 <div class="research-project-tags">
-<span>Non-stationary Response</span><span>Machine Learning</span><span>Structural Monitoring</span>
+<span>Model Updating</span><span>Finite Element Models</span><span>Data Assimilation</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Full-field reconstruction from sparse measurements</h3>
-<p>This direction investigates how limited sensor data can be used to reconstruct spatially distributed response fields and infer information beyond directly measured locations.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Digital Twins for Infrastructure</h3>
+<p>Data-informed computational models that support monitoring, interpretation, prognosis, and decision support for civil infrastructure systems.</p>
 <div class="research-project-tags">
-<span>Sparse Sensors</span><span>Full-field Response</span><span>Model Updating</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Data-informed digital twin updating</h3>
-<p>This direction focuses on updating computational models of bridges, buildings, and structural components using monitoring data, mechanics-based constraints, and uncertainty-aware interpretation.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
-<div class="research-project-tags">
-<span>Digital Twins</span><span>Model Updating</span><span>SHM</span>
+<span>Digital Twins</span><span>Infrastructure</span><span>Decision Support</span>
 </div>
 </div>
 
 </div>
 
-## Useful Background
+---
 
-Students interested in this thrust may benefit from background in structural dynamics, finite element modelling, inverse problems, filtering, optimization, scientific computing, or machine learning.
+## Methods and Tools
+
+Research in this thrust may involve structural dynamics, finite element modelling, inverse problems, filtering, optimization, machine learning, scientific computing, and sensing data.
+
+The emphasis is on connecting measured response with computational models so that digital twins can support reliable interpretation of structural behaviour and infrastructure condition.
+
+---
+
+## Student Background
+
+Students interested in this thrust may benefit from background in structural dynamics, finite element analysis, inverse problems, optimization, filtering, scientific computing, or machine learning.
+
+It is not necessary to have expertise in all areas. Specific topics are shaped based on the student’s background, interests, and expected time commitment.
+
+---
 
 ## Interested Students
 
-Interested students may contact me with a short statement describing their background and their interest in system identification, model updating, or digital twin development.
+Students interested in system identification, model updating, digital twins, structural dynamics, or infrastructure monitoring are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.

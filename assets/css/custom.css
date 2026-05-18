@@ -35,6 +35,25 @@ main {
 /* =========================================================
    Homepage sections and cards
    ========================================================= */
+.lab-tagline {
+  margin-top: -0.25rem;
+  margin-bottom: 1rem;
+  color: #93c5fd;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+  max-width: 950px;
+}
+
+   .profile-intro {
+  margin-top: 1.8rem;
+  margin-bottom: 1.7rem;
+  max-width: 1050px;
+}
+
+.profile-intro p {
+  margin-bottom: 1rem;
+}
 
 .home-section {
   width: 100%;
@@ -111,16 +130,44 @@ main {
 .home-profile-grid {
   display: grid;
   grid-template-columns: 320px 1fr;
-  gap: 2.5rem;
+  gap: 2.2rem;
   align-items: flex-start;
   margin-top: 2.5rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
+}
+
+.home-profile-grid h1 {
+  margin-bottom: 0.25rem;
+}
+
+.home-profile-grid h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
 }
 
 .home-profile-photo {
   width: 100%;
   border-radius: 24px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+.core-area-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.9rem;
+  max-width: 900px;
+}
+
+.core-area-pills span {
+  display: inline-block;
+  padding: 0.42rem 0.78rem;
+  border-radius: 999px;
+  background: rgba(96, 165, 250, 0.10);
+  border: 1px solid rgba(96, 165, 250, 0.25);
+  color: #dbeafe;
+  font-size: 0.92rem;
+  font-weight: 600;
 }
 
 /* =========================================================
@@ -175,6 +222,31 @@ main {
 
 .hero-callout {
   max-width: 100%;
+}
+
+/* =========================================================
+   About page
+   ========================================================= */
+   
+.about-education {
+  display: grid;
+  gap: 0.65rem;
+  margin: 1.2rem 0 1.4rem 0;
+  max-width: 850px;
+}
+
+.about-education div {
+  padding: 0.75rem 1rem;
+  border-radius: 14px;
+  background: rgba(255,255,255,0.025);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: #dbeafe;
+  line-height: 1.55;
+}
+
+.about-education strong {
+  color: white;
+  margin-right: 0.4rem;
 }
 
 /* =========================================================

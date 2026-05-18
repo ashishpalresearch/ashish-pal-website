@@ -8,7 +8,9 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-Research in the group focuses on developing intelligent, mechanics-informed, and data-driven methods for monitoring, modelling, and decision support of civil infrastructure systems. The projects below span structural health monitoring, digital twinning, scientific machine learning, sensing technologies, and resilient infrastructure assessment.
+Research projects at **RISE Lab** focus on smart and resilient infrastructure systems through sensing, structural health monitoring, computer vision, AI/ML, digital twins, prognosis, and decision support.
+
+The projects listed here represent ongoing sponsored, internal, exploratory, and collaborative research activities.
 
 ---
 
@@ -20,26 +22,32 @@ Research in the group focuses on developing intelligent, mechanics-informed, and
 
 <div class="project-badge">ANRF Early Career Research Grant</div>
 
-<h3>[Exact sanctioned title of your ANRF-ECRG project]</h3>
+<h3>High-Fidelity Digital Twins via Scientific Discovery Using Physics-Informed Machine Learning and Uncertainty Quantification for Structural Health Monitoring and Performance Assessment</h3>
 
 <p class="project-meta">
 <strong>Funding Agency:</strong> Anusandhan National Research Foundation (ANRF) <br>
 <strong>Scheme:</strong> Early Career Research Grant <br>
 <strong>Role:</strong> Principal Investigator <br>
 <strong>Status:</strong> Ongoing <br>
-<strong>Duration:</strong> [Start Year]–[End Year]
+<strong>Duration:</strong> Three years
 </p>
 
 <p>
-This project focuses on developing mechanics-informed intelligent frameworks for civil infrastructure monitoring by integrating structural mechanics, sensing data, scientific machine learning, and digital twinning. The research aims to enable reliable structural state estimation, damage-sensitive interpretation, predictive assessment, and decision support for infrastructure systems such as bridges and building-type structures.
+This project develops high-fidelity digital twin frameworks for structural health monitoring and performance assessment of civil infrastructure systems. The research integrates physics-informed machine learning, scientific discovery, nonlinear dynamics, and uncertainty quantification to improve the reliability of model updating, damage interpretation, and predictive assessment.
+</p>
+
+<p>
+The project is motivated by the need to monitor structures and seismic protection systems that may exhibit nonlinear behaviour due to base isolation, energy dissipation devices, cracks, yielding, fatigue, or degradation during service life. The broader aim is to support safer, more intelligent, and more resilient infrastructure systems through data-informed and physically meaningful digital twins.
 </p>
 
 <p class="project-tags">
 <span>ANRF-ECRG</span>
 <span>Digital Twins</span>
-<span>Structural Health Monitoring</span>
-<span>Physics-Informed ML</span>
-<span>Scientific Machine Learning</span>
+<span>Machine Learning</span>
+<span>Nonlinear Dynamics</span>
+<span>Damage Detection</span>
+<span>Scientific Discovery</span>
+<span>Uncertainty Quantification</span>
 </p>
 
 </div>
@@ -48,60 +56,82 @@ This project focuses on developing mechanics-informed intelligent frameworks for
 
 ---
 
-## Seed, Internal, and Collaborative Research Support
+## Seed-Funded and Collaborative Research Projects
 
 <div class="project-grid">
 
 <div class="project-card">
 
-<div class="project-badge secondary-badge">Seed Grant</div>
+<div class="project-badge secondary-badge">Seed / Internal Research Support</div>
 
-<h3>[Exact title of your seed-grant project]</h3>
+<h3>System Identification of Nonlinear Dynamic Systems Using Interpretable Machine Learning Methods for Applications in Structural Health Monitoring</h3>
 
 <p class="project-meta">
-<strong>Funding Source:</strong> [Institute / Department / Centre / Scheme Name] <br>
+<strong>Funding Source:</strong> Industrial Research and Consultancy Centre, IIT Bombay <br>
+<strong>Scheme:</strong> Seed Funding <br>
 <strong>Role:</strong> Principal Investigator <br>
-<strong>Status:</strong> Ongoing / Completed <br>
-<strong>Duration:</strong> [Start Year]–[End Year]
+<strong>Status:</strong> Ongoing <br>
+<strong>Duration:</strong> Four years
 </p>
 
 <p>
-[Seed project description.]
+This project focuses on interpretable machine learning methods for system identification of nonlinear dynamic systems in structural health monitoring. The research aims to understand structural behaviour from measured vibration response and support reliable detection, interpretation, and assessment of damage in civil infrastructure systems.
+</p>
+
+<p>
+The broader objective is to develop data-driven yet physically meaningful models that can help identify nonlinear behaviour, improve structural monitoring, and support the development of digital representations of damaged or evolving structures.
 </p>
 
 <p class="project-tags">
-<span>Seed Grant</span>
-<span>[Keyword 1]</span>
-<span>[Keyword 2]</span>
+<span>Seed Funding</span>
+<span>Nonlinear Dynamics</span>
+<span>System Identification</span>
+<span>Machine Learning</span>
+<span>Damage Detection</span>
+<span>Structural Health Monitoring</span>
 </p>
 
 </div>
 
 <div class="project-card">
 
-<div class="project-badge collaboration-badge">Collaborative Research Support</div>
+<div class="project-badge collaboration-badge">Seed Funding / Collaborative Research</div>
 
-<h3>[Exact title of the collaborative/exploratory project]</h3>
+<h3>Computer-Vision and Physics-Informed Machine Learning Based Bridge Structural Health Monitoring</h3>
 
 <p class="project-meta">
-<strong>Funding Source:</strong> [Institute / Centre / Scheme / Collaborating Institution] <br>
-<strong>Role:</strong> Principal Investigator / Co-PI / Collaborator <br>
-<strong>Collaborators:</strong> [Names / Institutions, optional] <br>
-<strong>Status:</strong> Ongoing / Completed <br>
-<strong>Duration:</strong> [Start Year]–[End Year]
+<strong>Funding Source:</strong> Industrial Research and Consultancy Centre, IIT Bombay <br>
+<strong>Scheme:</strong> Seed Funding <br>
+<strong>Role:</strong> Principal Investigator <br>
+<strong>Collaborator:</strong> Prof. Debarshi Sen, Assistant Professor, Southern Illinois University, Carbondale, Illinois, USA <br>
+<strong>Status:</strong> Ongoing <br>
+<strong>Duration:</strong> 12 months
 </p>
 
 <p>
-This exploratory project supports collaborative research in [brief area]. The work is aimed at developing preliminary ideas, proof-of-concept studies, datasets, computational frameworks, or experimental directions that may lead to larger sponsored research proposals and student projects.
+This project develops computer-vision and machine-learning methods for bridge structural health monitoring and condition assessment. The research explores how visual measurements can support full-field monitoring of bridge response and complement traditional sensing approaches.
+</p>
+
+<p>
+The project also investigates physics-informed learning approaches to improve the reliability, robustness, and physical consistency of bridge condition assessment models, with validation through laboratory-scale experiments.
 </p>
 
 <p class="project-tags">
+<span>Computer Vision</span>
+<span>Structural Health Monitoring</span>
+<span>Bridge Condition Assessment</span>
+<span>Physics-Informed Machine Learning</span>
 <span>Collaborative Research</span>
-<span>Exploratory Study</span>
-<span>[Keyword 1]</span>
-<span>[Keyword 2]</span>
 </p>
 
 </div>
 
 </div>
+
+---
+
+## Student and Collaborative Opportunities
+
+Students and collaborators interested in these areas are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually based on research needs, student background, time commitment, and available opportunities.

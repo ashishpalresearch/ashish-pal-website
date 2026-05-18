@@ -7,14 +7,15 @@ showReadingTime: false
 ---
 
 <img class="homepage-banner"
-     src="/ashish-pal-website/images/home-banner-4.png">
+     src="/ashish-pal-website/images/home-banner-4.png"
+     alt="RISE Lab: smart and resilient infrastructure systems">
 
 <div class="student-callout hero-callout">
 
 <strong>Prospective Students:</strong>
-I am actively looking for motivated PhD candidates interested in mechanics-informed AI, structural health monitoring, digital twins, scientific machine learning, and intelligent infrastructure systems. Strong M.Tech and motivated B.Tech students interested in research are also encouraged to connect.
+I am looking for motivated PhD, M.Tech, and B.Tech students interested in smart infrastructure, physics-guided sensing, structural health monitoring, computer vision, AI/ML, digital twins, and infrastructure resilience.
 
-<a href="/ashish-pal-website/openings/">Join the group →</a>
+<a href="/ashish-pal-website/join/">Join the group →</a>
 
 </div>
 
@@ -25,34 +26,43 @@ I am actively looking for motivated PhD candidates interested in mechanics-infor
 <div>
 
 <img class="home-profile-photo"
-     src="/ashish-pal-website/images/profile.jpeg">
+     src="/ashish-pal-website/images/profile.jpeg"
+     alt="Prof. Ashish Pal">
 
 </div>
 
 <div>
 
-# Prof. Ashish Pal
+# RISE Lab
 
-Assistant Professor  
+### Resilient Infrastructure and Smart Engineering Lab
+<div class="lab-tagline">
+Physics-guided sensing, health monitoring, prognosis, and digital twins for smart and resilient infrastructure systems.
+</div>
+
+Led by Prof. Ashish Pal  
 Department of Civil Engineering  
 Indian Institute of Technology Bombay
 
-<br>
+<div class="profile-intro">
 
-My research focuses on developing mechanics-informed intelligent systems for structural health monitoring, digital twins, scientific computing, and AI-assisted infrastructure monitoring.
+RISE Lab develops machine learning, computer vision, physics-guided sensing, and digital-twin methods for health monitoring, prognosis, and decision support in civil infrastructure systems. <br>
+The long-term goal is to enable smart and resilient infrastructure that can sense, interpret, predict, and support maintenance decisions using data, sensing technologies, structural mechanics, and machine intelligence.
 
-The goal is to build resilient infrastructure systems capable of autonomous sensing, interpretation, prediction, and decision support through the integration of mechanics, sensing technologies, and machine intelligence.
-
-<br>
+</div>
 
 ### Core Areas
 
-- Structural Health Monitoring
-- Physics-Informed Machine Learning
-- Digital Twins
-- Computer Vision
-- Scientific Computing
-- Infrastructure Sensing
+<div class="core-area-pills">
+
+<span>Smart Infrastructure</span>
+<span>Physics-Guided Sensing</span>
+<span>Structural Health Monitoring</span>
+<span>Computer Vision and AI</span>
+<span>Digital Twins</span>
+<span>Infrastructure Prognosis and Resilience</span>
+
+</div>
 
 </div>
 
@@ -60,7 +70,7 @@ The goal is to build resilient infrastructure systems capable of autonomous sens
 
 ---
 
-## Research Areas
+## Research Vision
 
 <section class="home-section">
 
@@ -68,33 +78,33 @@ The goal is to build resilient infrastructure systems capable of autonomous sens
 
 <div class="home-card">
 
-### Structural Health Monitoring
+### Sense
 
-Vibration-based and data-driven methods for damage detection, localization, and infrastructure condition assessment.
-
-</div>
-
-<div class="home-card">
-
-### Digital Twins
-
-Real-time infrastructure modelling integrating sensing, mechanics, and artificial intelligence.
+Develop sensing and signal-processing methods to extract reliable structural response from cameras, accelerometers, strain sensors, drones, and heterogeneous field measurements.
 
 </div>
 
 <div class="home-card">
 
-### Physics-Informed ML
+### Interpret
 
-Machine learning constrained by governing equations, continuum mechanics, and scientific principles.
+Use physics-informed AI and scientific machine learning to identify structural behavior, detect damage, and discover governing patterns from measured data.
 
 </div>
 
 <div class="home-card">
 
-### Computer Vision
+### Predict
 
-Image and video-based sensing for vibration measurement, displacement tracking, and structural inspection.
+Build digital twins and computational models that can update with data, quantify uncertainty, and forecast infrastructure performance.
+
+</div>
+
+<div class="home-card">
+
+### Decide
+
+Support inspection, maintenance, and resilience decisions through interpretable models, uncertainty-aware diagnosis, and engineering judgment.
 
 </div>
 
@@ -116,25 +126,11 @@ Image and video-based sensing for vibration measurement, displacement tracking, 
 Mechanical Systems and Signal Processing • 2025
 </div>
 
-### Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems
+### Sparse PDE Discovery for Nonlinear Dynamic Systems
 
-Physics-informed machine learning for scientific discovery.
+Physics-informed AI and machine learning for discovering governing equations from dynamic response data.
 
-[View Publication →](/ashish-pal-website/publications/)
-
-</div>
-
-<div class="home-card">
-
-<div class="home-card-meta">
-Mechanical Systems and Signal Processing • 2024
-</div>
-
-### Sparsity promoting algorithm for identification of nonlinear dynamic system based on Unscented Kalman Filter using novel selective thresholding and penalty-based model selection
-
-Kalman filter-based system identification of nonlinear structural dynamics.
-
-[View Publication →](/ashish-pal-website/publications/)
+[View publications →](/ashish-pal-website/publications/)
 
 </div>
 
@@ -144,11 +140,25 @@ Kalman filter-based system identification of nonlinear structural dynamics.
 Mechanical Systems and Signal Processing • 2024
 </div>
 
-### Data fusion based on short-term memory Kalman filtering using intermittent-displacement and acceleration signal with a time-varying bias
+### Sparse Identification of Nonlinear Dynamic Systems
 
-Fusion of heterogeneous sensor data for high-fidelity sensing.
+A sparsity-promoting system identification framework using unscented Kalman filtering, selective thresholding, and model selection.
 
-[View Publication →](/ashish-pal-website/publications/)
+[View publications →](/ashish-pal-website/publications/)
+
+</div>
+
+<div class="home-card">
+
+<div class="home-card-meta">
+Mechanical Systems and Signal Processing • 2024
+</div>
+
+### Data Fusion for Structural Response Estimation
+
+Kalman-filter-based fusion of intermittent displacement and acceleration measurements for high-fidelity structural sensing.
+
+[View publications →](/ashish-pal-website/publications/)
 
 </div>
 
@@ -158,7 +168,7 @@ Fusion of heterogeneous sensor data for high-fidelity sensing.
 
 ---
 
-## Featured Research Directions
+## Current Research Directions
 
 <section class="home-section">
 
@@ -166,9 +176,9 @@ Fusion of heterogeneous sensor data for high-fidelity sensing.
 
 <div class="home-card">
 
-### Mechanics-Informed AI for Structural Health Monitoring
+### Physics-Informed AI for SHM
 
-Develop AI/ML models that combine structural dynamics, sensing data, and physical principles for reliable damage detection and condition assessment.
+Develop AI/ML models that combine structural dynamics, sensing data, and physical principles for reliable damage detection, health monitoring, and condition assessment.
 
 [Explore research →](/ashish-pal-website/research/)
 
@@ -190,7 +200,7 @@ Create computational twins of bridges and building frames by integrating finite 
 
 Use cameras, drones, and computer vision to measure vibration, displacement, cracks, and visible damage in civil infrastructure systems.
 
-[Join the group →](/ashish-pal-website/join/)
+[Explore research →](/ashish-pal-website/research/)
 
 </div>
 
@@ -200,16 +210,15 @@ Use cameras, drones, and computer vision to measure vibration, displacement, cra
 
 ---
 
-
 ## Join the Group
 
 <section class="home-section">
 
 <div class="student-callout hero-callout">
 
-Interested in PhD, M.Tech thesis, or B.Tech research projects in mechanics-informed AI, digital twins, structural health monitoring, and intelligent infrastructure systems?
+Students interested in PhD, M.Tech thesis, or B.Tech research projects in smart infrastructure, physics-guided sensing, structural health monitoring, computer vision, AI/ML, digital twins, prognosis, and infrastructure resilience are encouraged to get in touch.
 
-<a href="/ashish-pal-website/openings/">View current opportunities →</a>
+<a href="/ashish-pal-website/join/">View current opportunities →</a>
 
 </div>
 

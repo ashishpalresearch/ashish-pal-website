@@ -35,7 +35,7 @@ weight = 45
 
 [[main]]
 name = "Join"
-pageRef = "openings"
+pageRef = "join"
 weight = 50
 
 [[main]]
@@ -52,5 +52,5 @@ weight = 65
 
 [[main]]
 name = "CV"
-url = "/files/cv.pdf"
+url = "/files/cv2.pdf"
 weight = 70

@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty-aware SHM and Bayesian Inference"
+title: "Uncertainty-Aware SHM and Bayesian Inference"
 weight: 20
 showDate: false
 showReadingTime: false
@@ -8,63 +8,70 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops uncertainty-aware methods for structural health monitoring, damage diagnosis, model updating, and decision support.
+This thrust focuses on uncertainty-aware methods for structural health monitoring, damage diagnosis, model updating, prognosis, and decision support.
 
-The goal is to move from deterministic monitoring outputs toward confidence-aware interpretation, where engineers can understand not only what the model predicts, but also how uncertain or reliable that prediction is.
+The goal is to move from deterministic monitoring outputs toward confidence-aware interpretation, where engineers can understand not only what a model predicts, but also how reliable that prediction may be.
+
+---
+
+## What We Study
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>Uncertainty-aware structural diagnosis</h3>
-<p>This direction studies how uncertainty in measurements, models, environmental conditions, and structural parameters affects damage detection and condition assessment.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Uncertainty-Aware Monitoring</h3>
+<p>Methods for understanding how measurement noise, modelling assumptions, environmental variability, and limited data affect infrastructure monitoring outcomes.</p>
 <div class="research-project-tags">
-<span>Uncertainty</span><span>Damage Diagnosis</span><span>SHM</span>
+<span>Uncertainty</span><span>SHM</span><span>Monitoring</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Bayesian inference for structural health monitoring</h3>
-<p>This direction develops probabilistic frameworks for updating beliefs about structural condition using monitoring data, mechanics-based models, and prior information.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Probabilistic Diagnosis</h3>
+<p>Approaches for interpreting structural condition with confidence estimates, rather than relying only on deterministic damage indicators or classifications.</p>
 <div class="research-project-tags">
-<span>Bayesian Inference</span><span>Inverse Problems</span><span>Reliability</span>
+<span>Probabilistic Methods</span><span>Diagnosis</span><span>Reliability</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Confidence-aware signal and field reconstruction</h3>
-<p>This direction investigates how missing, noisy, or incomplete structural response data can be reconstructed together with uncertainty estimates.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
+<h3>Confidence-Aware Prediction</h3>
+<p>Methods that support infrastructure prognosis and decision-making by accounting for uncertainty in data, models, and future structural behaviour.</p>
 <div class="research-project-tags">
-<span>Signal Reconstruction</span><span>Missing Data</span><span>Confidence Bounds</span>
+<span>Prediction</span><span>Prognosis</span><span>Decision Support</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Probabilistic machine learning for SHM</h3>
-<p>This direction explores machine learning methods that can provide both predictions and uncertainty estimates for structural monitoring and damage assessment.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Risk-Informed Decision Support</h3>
+<p>Frameworks that connect monitoring outputs with inspection, maintenance, and rehabilitation decisions under uncertainty.</p>
 <div class="research-project-tags">
-<span>Probabilistic ML</span><span>UQ</span><span>Decision Support</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Uncertainty-aware digital twin predictions</h3>
-<p>This direction focuses on propagating uncertainty through digital twin models so that predictions can support inspection, maintenance, and rehabilitation decisions.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
-<div class="research-project-tags">
-<span>Digital Twins</span><span>Prediction</span><span>Risk-informed Decisions</span>
+<span>Risk</span><span>Maintenance</span><span>Infrastructure</span>
 </div>
 </div>
 
 </div>
 
-## Useful Background
+---
+
+## Methods and Tools
+
+Research in this thrust may involve probability, statistics, Bayesian reasoning, inverse problems, structural reliability, machine learning, digital twins, and structural health monitoring.
+
+The emphasis is on developing monitoring and prediction methods that are not only accurate, but also calibrated, interpretable, and useful for engineering decisions.
+
+---
+
+## Student Background
 
 Students interested in this thrust may benefit from background in probability, statistics, Bayesian inference, structural reliability, inverse problems, machine learning, or structural health monitoring.
 
+It is not necessary to have expertise in all areas. Specific topics are shaped based on the student’s background, interests, and expected time commitment.
+
+---
+
 ## Interested Students
 
-Interested students may contact me with a short statement describing their background and their interest in uncertainty-aware monitoring, Bayesian inference, or decision support for infrastructure systems.
+Students interested in uncertainty-aware monitoring, probabilistic diagnosis, infrastructure prognosis, Bayesian methods, or decision support are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.

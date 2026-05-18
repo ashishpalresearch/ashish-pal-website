@@ -8,7 +8,9 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-The research group focuses on mechanics-informed intelligent systems for structural health monitoring, digital twins, scientific computing, and AI-assisted infrastructure monitoring.
+**RISE Lab — Resilient Infrastructure and Smart Engineering Lab** is a growing research group in the Department of Civil Engineering at IIT Bombay.
+
+The group works on smart and resilient infrastructure systems through structural health monitoring, physics-guided sensing, computer vision, AI/ML, digital twins, prognosis, and decision support.
 
 ---
 
@@ -27,7 +29,7 @@ The research group focuses on mechanics-informed intelligent systems for structu
 Department of Civil Engineering  
 Indian Institute of Technology Bombay
 
-Research interests include structural health monitoring, physics-informed machine learning, digital twins, scientific computing, computer vision, and intelligent infrastructure systems.
+Research interests include structural health monitoring, physics-guided sensing, computer vision, AI/ML, digital twins, scientific machine learning, system identification, uncertainty quantification, and resilient infrastructure systems.
 
 </div>
 
@@ -35,43 +37,19 @@ Research interests include structural health monitoring, physics-informed machin
 
 ---
 
-## Current Students and Researchers
+## Current Students
 
 <div class="team-grid">
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/ashish-pal.jpeg" class="team-photo" alt="B.Tech Project Student">
+<img src="/ashish-pal-website/images/team/saransh.png" class="team-photo" alt="Current M.Tech student">
 
-### B.Tech Project Student
+### Current M.Tech Student
 
-<div class="team-role">Undergraduate Researcher</div>
+<div class="team-role">M.Tech Thesis Student</div>
 
-Currently working with the group on multiple research projects related to intelligent infrastructure monitoring, sensing, and computational methods.
-
-Research areas include:
-
-- vision-based infrastructure monitoring
-- AI/ML-assisted structural response interpretation
-- computational tools for structural engineering applications
-
-</div>
-
-<div class="team-card">
-
-<img src="/ashish-pal-website/images/team/ashish-pal.jpeg" class="team-photo" alt="B.Tech Project Student">
-
-### B.Tech Project Student
-
-<div class="team-role">Undergraduate Researcher</div>
-
-Currently working with the group on multiple research projects related to intelligent infrastructure monitoring, sensing, and computational methods.
-
-Research areas include:
-
-- vision-based infrastructure monitoring
-- AI/ML-assisted structural response interpretation
-- computational tools for structural engineering applications
+Working with the group on research related to structural health monitoring, sensing, AI/ML, and smart infrastructure systems.
 
 </div>
 
@@ -85,19 +63,13 @@ Research areas include:
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/ashish-pal.jpeg" class="team-photo" alt="Former Student">
+<img src="/ashish-pal-website/images/team/anushka.jpeg" class="team-photo" alt="Former B.Tech student">
 
-### Student Name
+### Former B.Tech Research Student
 
-<div class="team-role">B.Tech Project Student</div>
+<div class="team-role">Undergraduate Researcher</div>
 
-Worked on research projects related to intelligent infrastructure monitoring, sensing, and computational methods.
-
-Project areas included:
-
-- vision-based infrastructure monitoring
-- AI/ML-assisted structural response interpretation
-- computational tools for structural engineering applications
+Worked with the group on multiple research projects related to infrastructure monitoring, sensing, AI/ML-assisted response interpretation, and computational tools for structural engineering applications.
 
 </div>
 
@@ -107,9 +79,9 @@ Project areas included:
 
 ## Growing Research Group
 
-The group is currently expanding and welcomes motivated students interested in mechanics-informed AI, structural health monitoring, digital twins, scientific computing, and intelligent infrastructure systems.
+RISE Lab is actively growing and welcomes motivated students who want to contribute to the early development of the group’s research culture, computational tools, experimental directions, and long-term identity.
 
-I am especially interested in recruiting PhD and M.Tech students who want to contribute to the early growth of the group and help shape its research culture, computational tools, experimental directions, and long-term identity.
+The group is especially interested in recruiting PhD students, M.Tech thesis students, and motivated B.Tech students interested in smart infrastructure, structural health monitoring, physics-guided sensing, computer vision, AI/ML, digital twins, scientific machine learning, and infrastructure resilience.
 
 ---
 
@@ -121,7 +93,7 @@ I am especially interested in recruiting PhD and M.Tech students who want to con
 
 ### PhD Students
 
-Ideal for students interested in long-term research on mechanics-informed AI, digital twins, structural health monitoring, scientific machine learning, infrastructure sensing, and intelligent civil infrastructure systems.
+Ideal for students interested in long-term research on smart infrastructure, structural health monitoring, physics-guided sensing, computer vision, digital twins, scientific machine learning, system identification, uncertainty quantification, and resilient infrastructure systems.
 
 </div>
 
@@ -129,7 +101,7 @@ Ideal for students interested in long-term research on mechanics-informed AI, di
 
 ### M.Tech Students
 
-Ideal for students interested in focused thesis projects involving structural dynamics, computer vision, sensor fusion, digital twins, physics-informed learning, and AI/ML for civil infrastructure.
+Ideal for students interested in focused thesis projects involving structural dynamics, finite element methods, computer vision, sensing, digital twins, physics-informed learning, and AI/ML for civil infrastructure.
 
 </div>
 
@@ -137,7 +109,7 @@ Ideal for students interested in focused thesis projects involving structural dy
 
 ### B.Tech Students
 
-Ideal for motivated students seeking early exposure to research through exploratory projects, coding-based assignments, literature reviews, and computational demonstrations.
+Ideal for motivated students seeking early exposure to research through exploratory projects, coding-based assignments, literature reviews, simulations, and computational demonstrations.
 
 </div>
 
@@ -147,4 +119,4 @@ Ideal for motivated students seeking early exposure to research through explorat
 
 ## Research Opportunities
 
-Interested students are encouraged to visit the [Join page](/ashish-pal-website/openings/) for current research directions, project opportunities, and application instructions.
+Interested students are encouraged to visit the [Join page](/ashish-pal-website/join/) for current research directions and application instructions.

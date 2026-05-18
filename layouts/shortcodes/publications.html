@@ -2,22 +2,22 @@
 
 <style>
 .publication-section {
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 .publication-section h2 {
   color: white;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.25rem;
 }
 
 .publication-list {
   display: grid;
-  gap: 1.5rem;
+  gap: 1.15rem;
 }
 
 .publication-card {
-  padding: 1.6rem;
-  border-radius: 22px;
+  padding: 1.15rem 1.35rem;
+  border-radius: 18px;
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.08);
   backdrop-filter: blur(10px);
@@ -26,27 +26,28 @@
 }
 
 .publication-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 14px 32px rgba(0,0,0,0.28);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.25);
 }
 
 .publication-title {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   color: white;
-  line-height: 1.5;
-  font-size: 1.15rem;
+  line-height: 1.4;
+  font-size: 1.05rem;
 }
 
 .publication-authors {
   color: #cbd5e1;
-  margin-bottom: 0.7rem;
-  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
 }
 
 .publication-meta {
   color: #94a3b8;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
 }
 
 .publication-links a {
@@ -57,6 +58,21 @@
 
 .publication-links a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 699px) {
+  .publication-section {
+    margin-top: 2.3rem;
+  }
+
+  .publication-card {
+    padding: 1rem 1.1rem;
+    border-radius: 16px;
+  }
+
+  .publication-title {
+    font-size: 1rem;
+  }
 }
 </style>
 

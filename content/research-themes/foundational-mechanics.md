@@ -1,5 +1,5 @@
 ---
-title: "Foundational Mechanics, Approximation Theory, and Bio-inspired Sensing"
+title: "Foundational Mechanics, Sensing, and Complex Dynamical Systems"
 weight: 10
 showDate: false
 showReadingTime: false
@@ -8,63 +8,72 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops foundational mechanics-aware representations, approximation methods, and sensing concepts that support structural health monitoring and digital twin development.
+This thrust focuses on foundational mechanics, computational representations, sensing concepts, and complex dynamical systems that support structural health monitoring, digital twins, and resilient infrastructure systems.
 
-The aim is to create new mathematical and mechanical tools for representing structural response, damage fields, stiffness changes, and sensing mechanisms in ways that are useful for diagnosis and prediction.
+The aim is to develop mathematical, mechanical, and computational tools that help represent structural behaviour in ways that are physically meaningful, interpretable, and useful for monitoring, prognosis, and decision support. This thrust also provides space for exploratory work inspired by bio-inspired sensing and active-matter-like collective dynamics where such ideas can inform sensing, modelling, or infrastructure monitoring.
+
+---
+
+## What We Study
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>Mechanics-aware approximation of structural response fields</h3>
-<p>This direction studies how displacement, strain, curvature, stiffness, and damage-related fields can be represented using continuous and adaptive approximation functions.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Mechanics-Aware Representations</h3>
+<p>Computational approaches for representing structural response, deformation, and behaviour using concepts from mechanics, numerical methods, and approximation theory.</p>
 <div class="research-project-tags">
-<span>Approximation Theory</span><span>Response Fields</span><span>Mechanics</span>
+<span>Mechanics</span><span>Approximation</span><span>Computation</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Adaptive representations for localized structural changes</h3>
-<p>This direction develops flexible representations that can capture both smooth global structural behaviour and localized changes caused by damage or deterioration.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Computational Tools for SHM</h3>
+<p>Methods that support structural health monitoring by connecting measured response, computational models, and engineering interpretation.</p>
 <div class="research-project-tags">
-<span>Adaptive Methods</span><span>Damage Fields</span><span>Global-local Response</span>
+<span>SHM</span><span>Computational Mechanics</span><span>Interpretability</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Continuous-field modelling for SHM</h3>
-<p>This direction investigates continuous descriptions of structural properties and damage indicators, moving beyond purely sensor-wise or element-wise interpretations.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Physics-Guided Modelling</h3>
+<p>Modelling approaches that use physical principles and engineering knowledge to improve robustness, reliability, and meaning in data-driven infrastructure monitoring.</p>
 <div class="research-project-tags">
-<span>Continuous Fields</span><span>SHM</span><span>Inverse Problems</span>
+<span>Physics-Guided Methods</span><span>Modelling</span><span>Infrastructure</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Damage-sensitive computational representations</h3>
-<p>This direction explores computational formulations that are specifically designed to represent damage-induced changes in structural response.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Exploratory Projects</p>
+<h3>Emerging Sensing and Dynamical Systems Concepts</h3>
+<p>Exploratory ideas inspired by mechanics, structural dynamics, bio-inspired sensing, and collective dynamical systems for future infrastructure monitoring applications.</p>
 <div class="research-project-tags">
-<span>Computational Mechanics</span><span>Damage-sensitive Bases</span><span>FEM</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Bio-inspired and passive mechanical sensing concepts</h3>
-<p>This direction explores unconventional sensing ideas inspired by mechanical systems in nature, with an emphasis on passive interpretation of frequency, vibration, and structural response.</p>
-<p class="research-project-meta">Suitable for: PhD / Exploratory Projects</p>
-<div class="research-project-tags">
-<span>Bio-inspired Sensing</span><span>Passive Monitoring</span><span>Vibration</span>
+<span>Sensing</span><span>Structural Dynamics</span><span>Exploratory Research</span>
 </div>
 </div>
 
 </div>
 
-## Useful Background
+---
 
-Students interested in this thrust may benefit from background in solid mechanics, structural dynamics, finite element methods, approximation theory, numerical methods, sensing, or scientific computing.
+## Methods and Tools
+
+Research in this thrust may involve solid mechanics, structural dynamics, finite element methods, numerical methods, approximation theory, scientific computing, sensing concepts, and machine learning.
+
+The emphasis is on foundational ideas that can support more reliable sensing, monitoring, diagnosis, prognosis, and digital twin development for civil infrastructure systems.
+
+This thrust also provides space for exploratory work at the interface of mechanics, sensing, computation, and complex dynamical systems, including faint connections to bio-inspired and active-matter-inspired thinking where relevant.
+
+---
+
+## Student Background
+
+Students interested in this thrust may benefit from background in solid mechanics, structural dynamics, finite element methods, numerical methods, scientific computing, sensing, or machine learning.
+
+It is not necessary to have expertise in all areas. Specific topics are shaped based on the student’s background, interests, and expected time commitment.
+
+---
 
 ## Interested Students
 
-Interested students may contact me with a short statement describing their background and their interest in mechanics-aware modelling, approximation methods, or unconventional sensing concepts.
+Students interested in mechanics-aware modelling, computational methods, physics-guided sensing, or exploratory sensing concepts for infrastructure monitoring are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.

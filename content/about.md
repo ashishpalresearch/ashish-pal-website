@@ -8,95 +8,63 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-Prof. Ashish Pal is an Assistant Professor in the Department of Civil Engineering at the Indian Institute of Technology Bombay. His research lies at the intersection of structural engineering, scientific computing, sensing technologies, and artificial intelligence.
+## About Prof. Ashish Pal
 
-His work focuses on developing mechanics-informed intelligent systems for structural health monitoring, digital twins, scientific machine learning, and resilient infrastructure monitoring.
+Prof. Ashish Pal is an Assistant Professor in the Department of Civil Engineering at the Indian Institute of Technology Bombay. He leads **RISE Lab — Resilient Infrastructure and Smart Engineering Lab**, a research group developing sensing, AI, and digital-twin methods for smart and resilient civil infrastructure systems.
 
----
-
-## Research Vision
-
-The long-term goal of the research is to develop intelligent infrastructure systems capable of autonomous sensing, interpretation, prediction, and decision support through the integration of mechanics, sensing technologies, data, and machine intelligence.
-
-The research aims to bridge the gap between physics-based engineering models and modern artificial intelligence to enable reliable, interpretable, and deployable solutions for civil infrastructure systems.
+His work brings together structural engineering, sensing technologies, computer vision, machine learning, scientific computing, and digital twins. A central theme of his research is to develop intelligent methods that are not only data-driven, but also guided by physical principles and engineering knowledge.
 
 ---
 
-## Research Interests
+## Academic Background
 
-<div class="research-grid">
+Prof. Pal’s academic training is in civil and structural engineering, with research experience across structural dynamics, computational mechanics, system identification, sensing, and artificial intelligence for engineering systems.
 
-<div class="research-card">
+<div class="about-education">
 
-### Structural Health Monitoring
-
-Vibration-based and data-driven approaches for damage detection, localization, and infrastructure condition assessment.
-
-</div>
-
-<div class="research-card">
-
-### Digital Twins
-
-Real-time infrastructure modelling integrating sensing, mechanics, and artificial intelligence.
+<div><strong>Ph.D.</strong> Civil Engineering, Rice University, Texas, USA</div>
+<div><strong>M.Tech</strong> Civil Engineering, Indian Institute of Technology Kanpur, India</div>
+<div><strong>B.Tech</strong> Civil Engineering, Indian Institute of Technology Kanpur, India</div>
 
 </div>
 
-<div class="research-card">
-
-### Physics-Informed Machine Learning
-
-Machine learning constrained by governing equations, continuum mechanics, and scientific principles.
-
-</div>
-
-<div class="research-card">
-
-### Scientific Computing
-
-Finite element methods, inverse problems, numerical modelling, and scientific machine learning.
-
-</div>
-
-<div class="research-card">
-
-### Computer Vision
-
-Vision-based sensing for displacement tracking, vibration measurement, and infrastructure inspection.
-
-</div>
-
-<div class="research-card">
-
-### Drone-Based Monitoring
-
-Remote and non-contact infrastructure monitoring using drones and vision-based sensing technologies.
-
-</div>
-
-</div>
+His research journey has involved combining classical structural engineering concepts with modern computational tools such as machine learning, computer vision, full-field sensing, and scientific machine learning.
 
 ---
 
-## For Prospective Students
+## Research Journey
 
-The research group is actively growing and welcomes motivated PhD and M.Tech students interested in mechanics-informed AI, structural health monitoring, digital twins, scientific machine learning, computer vision, and infrastructure sensing.
+The motivation behind RISE Lab comes from a simple question:  
+**How can civil infrastructure systems become more intelligent, reliable, and resilient over their service life?**
 
-Students interested in these directions are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/openings/).
+Traditional structural engineering provides strong physical models, but real infrastructure systems are affected by noise, uncertainty, incomplete measurements, ageing, environmental variability, and limited inspection data. Modern AI and computer vision offer powerful tools, but they must be made reliable, interpretable, and physically meaningful for engineering use.
+
+RISE Lab aims to bridge these two worlds by developing methods that combine data, sensing, structural mechanics, and machine intelligence.
 
 ---
 
-## Collaboration
+## RISE Lab
 
-Collaborations are welcome in areas related to:
+**RISE Lab** stands for **Resilient Infrastructure and Smart Engineering Lab**.
 
-- Structural health monitoring
-- Digital twins
-- AI for engineering systems
-- Scientific machine learning
-- Infrastructure sensing
-- Computational mechanics
-- Vision-based monitoring
-- Physics-guided artificial intelligence
+The group focuses on developing methods for infrastructure health monitoring, prognosis, sensing, digital twins, and decision support. The goal is to contribute toward infrastructure systems that can sense, interpret, predict, and support maintenance decisions.
 
-For research collaborations, student opportunities, workshops, or invited talks, please use the contact information provided on the [Contact page](/ashish-pal-website/contact/).
+The lab’s research philosophy is to combine:
+
+- engineering mechanics,
+- sensing and measurement,
+- computer vision,
+- machine learning,
+- scientific computing,
+- uncertainty quantification,
+- and digital twin modelling.
+
+---
+
+## For Students and Collaborators
+
+RISE Lab is being built as a research group for students who are interested in solving civil infrastructure problems using modern computational and experimental tools.
+
+Students interested in structural health monitoring, smart infrastructure, computer vision, AI/ML, digital twins, physics-guided sensing, and infrastructure resilience are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/join/).
+
+Researchers, industry partners, and public agencies interested in infrastructure monitoring, sensing, digital twins, or resilient infrastructure systems are welcome to connect through the [Contact page](/ashish-pal-website/contact/).

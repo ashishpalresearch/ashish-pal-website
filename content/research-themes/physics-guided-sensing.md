@@ -1,5 +1,5 @@
 ---
-title: "Physics-guided Sensing and Signal Processing for SHM"
+title: "Physics-Guided Sensing and Signal Processing for SHM"
 weight: 60
 showDate: false
 showReadingTime: false
@@ -8,63 +8,68 @@ showTaxonomies: false
 showAuthor: false
 ---
 
-This thrust develops physics-guided sensing, signal-processing, and computer-vision methods for structural health monitoring. The focus is on extracting reliable structural response from noisy, incomplete, multi-rate, and heterogeneous measurements.
+This thrust focuses on sensing, signal processing, and computer vision methods for structural health monitoring of civil infrastructure. The goal is to extract reliable structural information from measurements that may be noisy, incomplete, indirect, or collected under field constraints.
 
-The broader goal is to convert raw measurements from cameras, accelerometers, strain sensors, drones, and other sensing systems into physically meaningful information about structural behaviour.
+A central idea is to combine measured data with structural dynamics, mechanics, and engineering knowledge so that sensing outputs remain physically meaningful and useful for infrastructure monitoring.
+
+---
+
+## What We Study
 
 <div class="research-project-grid">
 
 <div class="research-project-card">
-<h3>Noise-robust structural response reconstruction</h3>
-<p>This direction develops methods to reconstruct displacement, velocity, acceleration, curvature, and other response quantities from noisy structural measurements.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
+<h3>Structural Response Measurement</h3>
+<p>Methods for estimating displacement, vibration, strain, modal response, and other structural quantities from sensor and vision-based measurements.</p>
 <div class="research-project-tags">
-<span>Signal Processing</span><span>Structural Dynamics</span><span>SHM</span>
+<span>Sensing</span><span>Structural Dynamics</span><span>SHM</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Physics-informed computer vision for structural monitoring</h3>
-<p>This direction uses videos and images to estimate structural motion, vibration characteristics, deformation patterns, and other response quantities while using mechanics-based constraints to improve reliability.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
+<h3>Vision-Based Monitoring</h3>
+<p>Computer vision approaches for extracting structural motion, deformation, and visual indicators of condition from images and videos.</p>
 <div class="research-project-tags">
-<span>Computer Vision</span><span>Vibration</span><span>Mechanics</span>
+<span>Computer Vision</span><span>Vibration</span><span>Inspection</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Heterogeneous and multi-rate sensor fusion</h3>
-<p>This direction studies how data from different sensors and sampling rates can be combined to obtain more reliable estimates of structural states and condition indicators.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Physics-Guided Signal Processing</h3>
+<p>Signal-processing methods that use physical constraints and engineering knowledge to improve the reliability of measured structural response.</p>
 <div class="research-project-tags">
-<span>Sensor Fusion</span><span>Multi-rate Data</span><span>State Estimation</span>
+<span>Signal Processing</span><span>Mechanics</span><span>Measurement</span>
 </div>
 </div>
 
 <div class="research-project-card">
-<h3>Full-field response estimation from visual data</h3>
-<p>This direction explores how images and videos can be used to infer spatially distributed displacement, strain, vibration, or modal response fields.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech</p>
+<h3>Multi-Sensor Infrastructure Monitoring</h3>
+<p>Approaches for using data from cameras, accelerometers, strain sensors, drones, and other sensing platforms for infrastructure monitoring.</p>
 <div class="research-project-tags">
-<span>Full-field SHM</span><span>Vision</span><span>Strain</span>
-</div>
-</div>
-
-<div class="research-project-card">
-<h3>Field-oriented sensing using cameras, drones, and mobile platforms</h3>
-<p>This direction investigates scalable sensing methods for infrastructure monitoring using visual, mobile, and remote sensing platforms.</p>
-<p class="research-project-meta">Suitable for: PhD / M.Tech / Research Interns</p>
-<div class="research-project-tags">
-<span>Drones</span><span>Mobile Sensing</span><span>Infrastructure</span>
+<span>Sensor Data</span><span>Infrastructure</span><span>Monitoring</span>
 </div>
 </div>
 
 </div>
 
-## Useful Background
+---
+
+## Methods and Tools
+
+Research in this thrust may involve structural dynamics, signal processing, image and video analysis, machine learning, experimental measurements, and computational modelling. Depending on the problem, the work may use Python, MATLAB, finite element simulations, laboratory experiments, or field-oriented sensing data.
+
+---
+
+## Student Background
 
 Students interested in this thrust may benefit from background in structural dynamics, signal processing, computer vision, machine learning, Python/MATLAB programming, or experimental measurements.
 
+It is not necessary to have expertise in all areas. Specific topics are shaped based on the student’s background, interests, and expected time commitment.
+
+---
+
 ## Interested Students
 
-Interested students may contact me with a short statement describing their background, technical skills, and the type of sensing or monitoring problem they would like to work on.
+Students interested in physics-guided sensing, computer vision, signal processing, or infrastructure monitoring are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+
+Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.
