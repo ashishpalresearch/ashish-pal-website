@@ -16,7 +16,7 @@ mainSections = ["posts"]
 layout = "background"
 
 [header]
-layout = "fixed-fill-blur"
+layout = "fixed-fill"
 
 [footer]
 showCopyright = true
