@@ -119,7 +119,7 @@ The talk discussed online estimation of displacement, velocity, and acceleration
 
 <div class="activity-card">
 
-<div class="activity-badge talk-badge">Upcoming Invited Lecture</div>
+<div class="activity-badge talk-badge">Invited Lecture</div>
 
 <h3>From Equations to Solutions: Physics-Informed Neural Networks for Mechanics Problems</h3>
 
@@ -127,7 +127,8 @@ The talk discussed online estimation of displacement, velocity, and acceleration
 <strong>Event:</strong> Core Meets Code <br>
 <strong>Venue:</strong> Online <br>
 <strong>Date:</strong> May 22, 2026 <br>
-<strong>Status:</strong> Upcoming
+<strong>Status:</strong> Completed <br>
+<strong>Lecture video:</strong> <a href="Your link here" target="_blank">Watch recording →</a>
 </p>
 
 <p>

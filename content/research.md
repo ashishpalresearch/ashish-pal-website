@@ -12,13 +12,14 @@ showAuthor: false
 
 ## Research Vision
 
-My research develops **mechanics-informed intelligent systems** for sensing, interpreting, modelling, and decision-making in civil infrastructure.
+My research develops physics-guided intelligent systems for sensing, interpreting, modelling, and decision-making in civil infrastructure.
 
-The central idea is to combine **structural mechanics, sensing technologies, scientific computing, and artificial intelligence** so that structural health monitoring moves beyond data collection toward diagnosis, prediction, uncertainty-aware interpretation, and practical decision support.
+The central idea is to combine structural dynamics, sensing technologies, scientific computing, and artificial intelligence so that structural health monitoring moves beyond data collection toward diagnosis, prediction, uncertainty-aware interpretation, and practical decision support.
 
 <div class="research-vision-flow">
   <span>Sensing</span>
   <span>Mechanics</span>
+  <span>Structural Dynamics</span>
   <span>AI/ML</span>
   <span>Digital Twins</span>
   <span>Decision Support</span>

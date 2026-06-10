@@ -7,7 +7,7 @@ showReadingTime: false
 ---
 
 <img class="homepage-banner"
-     src="/ashish-pal-website/images/home-banner-4.png"
+     src="/ashish-pal-website/images/home-banner-5.png"
      alt="RISE Lab: smart and resilient infrastructure systems">
 
 <div class="student-callout hero-callout">

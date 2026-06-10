@@ -1085,3 +1085,544 @@ main {
     vertical-align: top !important;
   }
 }
+
+
+
+/* =========================================================
+   FINAL GLOBAL CARD SYSTEM
+   Keeps layouts unchanged, makes cards consistent across site
+   ========================================================= */
+
+/* ---------- Dark mode cards: default site appearance ---------- */
+
+.dark .home-card,
+.dark .project-card,
+.dark .activity-card,
+.dark .team-card,
+.dark .contact-card,
+.dark .research-card,
+.dark .research-feature-card,
+.dark .research-project-card,
+.dark .research-vision-box,
+.dark .about-education div,
+.dark .publication-card {
+  background: rgba(255, 255, 255, 0.035) !important;
+  border: 1px solid rgba(255, 255, 255, 0.10) !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18) !important;
+  color: #e5e7eb !important;
+}
+
+/* ---------- Light mode cards ---------- */
+
+html:not(.dark) .home-card,
+html:not(.dark) .project-card,
+html:not(.dark) .activity-card,
+html:not(.dark) .team-card,
+html:not(.dark) .contact-card,
+html:not(.dark) .research-card,
+html:not(.dark) .research-feature-card,
+html:not(.dark) .research-project-card,
+html:not(.dark) .research-vision-box,
+html:not(.dark) .about-education div,
+html:not(.dark) .publication-card {
+  background: #ffffff !important;
+  border: 1px solid rgba(15, 23, 42, 0.12) !important;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08) !important;
+  color: #1e293b !important;
+}
+
+/* ---------- Remove inconsistent thick left borders from featured cards ---------- */
+
+.featured-project,
+.featured-activity,
+.featured-research-project,
+.project-card.featured-project,
+.activity-card.featured-activity,
+.research-project-card.featured-research-project {
+  border-left-width: 1px !important;
+}
+
+/* ---------- Dark mode text inside cards ---------- */
+
+.dark .home-card h1,
+.dark .home-card h2,
+.dark .home-card h3,
+.dark .project-card h1,
+.dark .project-card h2,
+.dark .project-card h3,
+.dark .activity-card h1,
+.dark .activity-card h2,
+.dark .activity-card h3,
+.dark .team-card h1,
+.dark .team-card h2,
+.dark .team-card h3,
+.dark .contact-card h1,
+.dark .contact-card h2,
+.dark .contact-card h3,
+.dark .research-card h1,
+.dark .research-card h2,
+.dark .research-card h3,
+.dark .research-feature-card h1,
+.dark .research-feature-card h2,
+.dark .research-feature-card h3,
+.dark .research-project-card h1,
+.dark .research-project-card h2,
+.dark .research-project-card h3,
+.dark .research-vision-box h1,
+.dark .research-vision-box h2,
+.dark .research-vision-box h3,
+.dark .publication-card h1,
+.dark .publication-card h2,
+.dark .publication-card h3 {
+  color: #ffffff !important;
+}
+
+.dark .home-card p,
+.dark .project-card p,
+.dark .activity-card p,
+.dark .team-card p,
+.dark .contact-card p,
+.dark .research-card p,
+.dark .research-feature-card p,
+.dark .research-project-card p,
+.dark .research-vision-box p,
+.dark .publication-card p,
+.dark .publication-authors,
+.dark .publication-meta {
+  color: #cbd5e1 !important;
+}
+
+.dark .home-card strong,
+.dark .project-card strong,
+.dark .activity-card strong,
+.dark .team-card strong,
+.dark .contact-card strong,
+.dark .research-card strong,
+.dark .research-feature-card strong,
+.dark .research-project-card strong,
+.dark .research-vision-box strong,
+.dark .publication-card strong {
+  color: #e5e7eb !important;
+}
+
+/* ---------- Light mode text inside cards ---------- */
+
+html:not(.dark) .home-card h1,
+html:not(.dark) .home-card h2,
+html:not(.dark) .home-card h3,
+html:not(.dark) .project-card h1,
+html:not(.dark) .project-card h2,
+html:not(.dark) .project-card h3,
+html:not(.dark) .activity-card h1,
+html:not(.dark) .activity-card h2,
+html:not(.dark) .activity-card h3,
+html:not(.dark) .team-card h1,
+html:not(.dark) .team-card h2,
+html:not(.dark) .team-card h3,
+html:not(.dark) .contact-card h1,
+html:not(.dark) .contact-card h2,
+html:not(.dark) .contact-card h3,
+html:not(.dark) .research-card h1,
+html:not(.dark) .research-card h2,
+html:not(.dark) .research-card h3,
+html:not(.dark) .research-feature-card h1,
+html:not(.dark) .research-feature-card h2,
+html:not(.dark) .research-feature-card h3,
+html:not(.dark) .research-project-card h1,
+html:not(.dark) .research-project-card h2,
+html:not(.dark) .research-project-card h3,
+html:not(.dark) .research-vision-box h1,
+html:not(.dark) .research-vision-box h2,
+html:not(.dark) .research-vision-box h3,
+html:not(.dark) .publication-card h1,
+html:not(.dark) .publication-card h2,
+html:not(.dark) .publication-card h3 {
+  color: #0f172a !important;
+}
+
+html:not(.dark) .home-card p,
+html:not(.dark) .project-card p,
+html:not(.dark) .activity-card p,
+html:not(.dark) .team-card p,
+html:not(.dark) .contact-card p,
+html:not(.dark) .research-card p,
+html:not(.dark) .research-feature-card p,
+html:not(.dark) .research-project-card p,
+html:not(.dark) .research-vision-box p,
+html:not(.dark) .publication-card p,
+html:not(.dark) .publication-authors,
+html:not(.dark) .publication-meta {
+  color: #334155 !important;
+}
+
+html:not(.dark) .home-card strong,
+html:not(.dark) .project-card strong,
+html:not(.dark) .activity-card strong,
+html:not(.dark) .team-card strong,
+html:not(.dark) .contact-card strong,
+html:not(.dark) .research-card strong,
+html:not(.dark) .research-feature-card strong,
+html:not(.dark) .research-project-card strong,
+html:not(.dark) .research-vision-box strong,
+html:not(.dark) .publication-card strong {
+  color: #1e293b !important;
+}
+
+/* ---------- Links inside cards ---------- */
+
+.dark .home-card a,
+.dark .project-card a,
+.dark .activity-card a,
+.dark .team-card a,
+.dark .contact-card a,
+.dark .research-card a,
+.dark .research-feature-card a,
+.dark .research-project-card a,
+.dark .research-vision-box a,
+.dark .publication-card a {
+  color: #60a5fa !important;
+  font-weight: 700;
+}
+
+html:not(.dark) .home-card a,
+html:not(.dark) .project-card a,
+html:not(.dark) .activity-card a,
+html:not(.dark) .team-card a,
+html:not(.dark) .contact-card a,
+html:not(.dark) .research-card a,
+html:not(.dark) .research-feature-card a,
+html:not(.dark) .research-project-card a,
+html:not(.dark) .research-vision-box a,
+html:not(.dark) .publication-card a {
+  color: #2563eb !important;
+  font-weight: 700;
+}
+
+/* ---------- Consistent hover behavior ---------- */
+
+.home-card:hover,
+.project-card:hover,
+.activity-card:hover,
+.team-card:hover,
+.research-card:hover,
+.research-feature-card:hover,
+.research-project-card:hover,
+.publication-card:hover {
+  border-color: rgba(96, 165, 250, 0.35) !important;
+}
+
+.dark .home-card:hover,
+.dark .project-card:hover,
+.dark .activity-card:hover,
+.dark .team-card:hover,
+.dark .research-card:hover,
+.dark .research-feature-card:hover,
+.dark .research-project-card:hover,
+.dark .publication-card:hover {
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.28) !important;
+}
+
+html:not(.dark) .home-card:hover,
+html:not(.dark) .project-card:hover,
+html:not(.dark) .activity-card:hover,
+html:not(.dark) .team-card:hover,
+html:not(.dark) .research-card:hover,
+html:not(.dark) .research-feature-card:hover,
+html:not(.dark) .research-project-card:hover,
+html:not(.dark) .publication-card:hover {
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.12) !important;
+}
+
+/* ---------- Consistent pill / tag style ---------- */
+
+.dark .core-area-pills span,
+.dark .research-vision-flow span,
+.dark .project-tags span,
+.dark .activity-tags span,
+.dark .research-project-tags span {
+  color: #dbeafe !important;
+  background: rgba(96, 165, 250, 0.14) !important;
+  border: 1px solid rgba(96, 165, 250, 0.28) !important;
+  font-weight: 700 !important;
+}
+
+html:not(.dark) .core-area-pills span,
+html:not(.dark) .research-vision-flow span,
+html:not(.dark) .project-tags span,
+html:not(.dark) .activity-tags span,
+html:not(.dark) .research-project-tags span {
+  color: #1d4ed8 !important;
+  background: #dbeafe !important;
+  border: 1px solid rgba(37, 99, 235, 0.25) !important;
+  font-weight: 700 !important;
+}
+
+/* ---------- Student / CTA callout consistency ---------- */
+
+.dark .student-callout {
+  background: rgba(96, 165, 250, 0.10) !important;
+  border: 1px solid rgba(96, 165, 250, 0.28) !important;
+  color: #e5e7eb !important;
+}
+
+html:not(.dark) .student-callout {
+  background: #eff6ff !important;
+  border: 1px solid rgba(37, 99, 235, 0.22) !important;
+  color: #1e293b !important;
+}
+
+.dark .student-callout strong {
+  color: #ffffff !important;
+}
+
+html:not(.dark) .student-callout strong {
+  color: #1e293b !important;
+}
+
+.dark .student-callout a {
+  color: #60a5fa !important;
+}
+
+html:not(.dark) .student-callout a {
+  color: #2563eb !important;
+}
+
+/* =========================================================
+   FINAL FIX: About page education degree labels
+   Safe: About education cards only
+   ========================================================= */
+
+.about-education div {
+  text-align: left !important;
+}
+
+.about-education strong {
+  display: inline-block !important;
+  min-width: 4.2rem !important;
+  margin-right: 0.75rem !important;
+  font-weight: 700 !important;
+}
+
+.dark .about-education strong {
+  color: #ffffff !important;
+}
+
+html:not(.dark) .about-education strong {
+  color: #0f172a !important;
+}
+
+/* =========================================================
+   FIX: Reduce extra gap below fixed Blowfish header
+   Safe: moves main content slightly upward
+   ========================================================= */
+
+main {
+  margin-top: -3.5rem !important;
+}
+
+/* =========================================================
+   FINAL MOBILE POLISH
+   Safe mobile-only improvements
+   Does not affect desktop/tablet layout
+   ========================================================= */
+
+@media (max-width: 699px) {
+
+  /* Reduce extra top gap caused by fixed header on mobile */
+  main {
+    margin-top: -2.2rem !important;
+    padding-left: 0.8rem !important;
+    padding-right: 0.8rem !important;
+    overflow-x: hidden !important;
+  }
+
+  body {
+    overflow-x: hidden !important;
+  }
+
+  /* Page titles */
+  main h1:first-child {
+    font-size: 2rem !important;
+    line-height: 1.15 !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 1.2rem !important;
+  }
+
+  /* Homepage profile section */
+  .home-profile-grid {
+    grid-template-columns: 1fr !important;
+    gap: 1.2rem !important;
+    margin-top: 1.4rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  .home-profile-photo {
+    max-width: 260px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .lab-tagline {
+    font-size: 0.95rem !important;
+    line-height: 1.45 !important;
+  }
+
+  .profile-intro {
+    margin-top: 1rem !important;
+    margin-bottom: 1.2rem !important;
+  }
+
+  /* General card comfort on phone */
+  .home-card,
+  .project-card,
+  .activity-card,
+  .team-card,
+  .contact-card,
+  .research-card,
+  .research-feature-card,
+  .research-project-card,
+  .research-vision-box,
+  .publication-card,
+  .student-callout {
+    padding: 1rem !important;
+    border-radius: 16px !important;
+  }
+
+  .home-card h3,
+  .project-card h3,
+  .activity-card h3,
+  .team-card h3,
+  .research-card h3,
+  .research-feature-card h3,
+  .research-project-card h3,
+  .publication-title {
+    font-size: 1.05rem !important;
+    line-height: 1.3 !important;
+  }
+
+  .home-card p,
+  .project-card p,
+  .activity-card p,
+  .team-card p,
+  .research-card p,
+  .research-feature-card p,
+  .research-project-card p,
+  .publication-card p {
+    font-size: 0.92rem !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Pills/tags should wrap neatly */
+  .core-area-pills,
+  .research-vision-flow,
+  .project-tags,
+  .activity-tags,
+  .research-project-tags {
+    gap: 0.45rem !important;
+  }
+
+  .core-area-pills span,
+  .research-vision-flow span,
+  .project-tags span,
+  .activity-tags span,
+  .research-project-tags span {
+    font-size: 0.75rem !important;
+    padding: 0.28rem 0.55rem !important;
+  }
+
+  /* Research page: preserve stacked layout */
+  .research-feature {
+    grid-template-columns: 1fr !important;
+    gap: 0.9rem !important;
+    margin: 1.6rem 0 !important;
+  }
+
+  .research-feature-card {
+    height: auto !important;
+    max-height: none !important;
+    overflow-y: visible !important;
+  }
+
+  .research-feature-visual {
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+
+  .research-feature-visual img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+  }
+
+  /* About education cards */
+  .about-education div {
+    font-size: 0.9rem !important;
+    line-height: 1.45 !important;
+  }
+
+  .about-education strong {
+    min-width: 3.8rem !important;
+    margin-right: 0.45rem !important;
+  }
+}
+
+/* =========================================================
+   FIX: Mobile search result visibility
+   Safe: affects only Blowfish search UI
+   ========================================================= */
+
+#search-wrapper,
+#search-modal,
+#search-query,
+#search-results,
+#search-results-wrapper,
+.search-wrapper,
+.search-modal,
+.search-results {
+  z-index: 9999 !important;
+}
+
+#search-results,
+#search-results-wrapper,
+.search-results {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: 70vh !important;
+  overflow-y: auto !important;
+}
+
+#search-results *,
+#search-results-wrapper *,
+.search-results * {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+html:not(.dark) #search-results,
+html:not(.dark) #search-results-wrapper,
+html:not(.dark) .search-results {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+html:not(.dark) #search-results *,
+html:not(.dark) #search-results-wrapper *,
+html:not(.dark) .search-results * {
+  color: #0f172a !important;
+}
+
+.dark #search-results,
+.dark #search-results-wrapper,
+.dark .search-results {
+  background: #0f172a !important;
+  color: #e5e7eb !important;
+}
+
+.dark #search-results *,
+.dark #search-results-wrapper *,
+.dark .search-results * {
+  color: #e5e7eb !important;
+}
