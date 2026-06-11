@@ -7,7 +7,7 @@ showReadingTime: false
 ---
 
 <img class="homepage-banner"
-     src="/ashish-pal-website/images/home-banner-5.png"
+     src="/images/home-banner-5.png"
      alt="RISE Lab: smart and resilient infrastructure systems">
 
 <div class="student-callout hero-callout">
@@ -15,7 +15,7 @@ showReadingTime: false
 <strong>Prospective Students:</strong>
 I am looking for motivated PhD, M.Tech, and B.Tech students interested in smart infrastructure, physics-guided sensing, structural health monitoring, computer vision, AI/ML, digital twins, and infrastructure resilience.
 
-<a href="/ashish-pal-website/join/">Join the group →</a>
+<a href="/join/">Join the group →</a>
 
 </div>
 
@@ -26,7 +26,7 @@ I am looking for motivated PhD, M.Tech, and B.Tech students interested in smart 
 <div>
 
 <img class="home-profile-photo"
-     src="/ashish-pal-website/images/profile.jpeg"
+     src="/images/profile.jpeg"
      alt="Prof. Ashish Pal">
 
 </div>
@@ -130,7 +130,7 @@ Mechanical Systems and Signal Processing • 2025
 
 Physics-informed AI and machine learning for discovering governing equations from dynamic response data.
 
-[View publications →](/ashish-pal-website/publications/)
+[View publications →](/publications/)
 
 </div>
 
@@ -144,7 +144,7 @@ Mechanical Systems and Signal Processing • 2024
 
 A sparsity-promoting system identification framework using unscented Kalman filtering, selective thresholding, and model selection.
 
-[View publications →](/ashish-pal-website/publications/)
+[View publications →](/publications/)
 
 </div>
 
@@ -158,7 +158,7 @@ Mechanical Systems and Signal Processing • 2024
 
 Kalman-filter-based fusion of intermittent displacement and acceleration measurements for high-fidelity structural sensing.
 
-[View publications →](/ashish-pal-website/publications/)
+[View publications →](/publications/)
 
 </div>
 
@@ -180,7 +180,7 @@ Kalman-filter-based fusion of intermittent displacement and acceleration measure
 
 Develop AI/ML models that combine structural dynamics, sensing data, and physical principles for reliable damage detection, health monitoring, and condition assessment.
 
-[Explore research →](/ashish-pal-website/research/)
+[Explore research →](/research/)
 
 </div>
 
@@ -190,7 +190,7 @@ Develop AI/ML models that combine structural dynamics, sensing data, and physica
 
 Create computational twins of bridges and building frames by integrating finite element models, sensing data, state estimation, and machine learning.
 
-[Explore research →](/ashish-pal-website/research/)
+[Explore research →](/research/)
 
 </div>
 
@@ -200,7 +200,7 @@ Create computational twins of bridges and building frames by integrating finite 
 
 Use cameras, drones, and computer vision to measure vibration, displacement, cracks, and visible damage in civil infrastructure systems.
 
-[Explore research →](/ashish-pal-website/research/)
+[Explore research →](/research/)
 
 </div>
 
@@ -218,7 +218,7 @@ Use cameras, drones, and computer vision to measure vibration, displacement, cra
 
 Students interested in PhD, M.Tech thesis, or B.Tech research projects in smart infrastructure, physics-guided sensing, structural health monitoring, computer vision, AI/ML, digital twins, prognosis, and infrastructure resilience are encouraged to get in touch.
 
-<a href="/ashish-pal-website/join/">View current opportunities →</a>
+<a href="/join/">View current opportunities →</a>
 
 </div>
 

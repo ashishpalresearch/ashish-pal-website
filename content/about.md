@@ -65,6 +65,6 @@ The lab’s research philosophy is to combine:
 
 RISE Lab is being built as a research group for students who are interested in solving civil infrastructure problems using modern computational and experimental tools.
 
-Students interested in structural health monitoring, smart infrastructure, computer vision, AI/ML, digital twins, physics-guided sensing, and infrastructure resilience are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/join/).
+Students interested in structural health monitoring, smart infrastructure, computer vision, AI/ML, digital twins, physics-guided sensing, and infrastructure resilience are encouraged to explore the [Research page](/research/) and the [Join the Group page](/join/).
 
-Researchers, industry partners, and public agencies interested in infrastructure monitoring, sensing, digital twins, or resilient infrastructure systems are welcome to connect through the [Contact page](/ashish-pal-website/contact/).
+Researchers, industry partners, and public agencies interested in infrastructure monitoring, sensing, digital twins, or resilient infrastructure systems are welcome to connect through the [Contact page](/contact/).

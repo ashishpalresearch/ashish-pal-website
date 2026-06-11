@@ -45,12 +45,12 @@ The goal is to develop sensing and signal-processing methods that are not purely
 
 **Representative directions:** SRDD-based derivative estimation, physics-informed computer vision, multi-rate sensor fusion, full-field strain prediction, night-time SHM, drone-based and drive-by monitoring.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/physics-guided-sensing/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/physics-guided-sensing/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T1.png" alt="Physics-guided sensing and signal processing for structural health monitoring">
+  <img src="/images/research/T1.png" alt="Physics-guided sensing and signal processing for structural health monitoring">
 </div>
 
 </div>
@@ -69,12 +69,12 @@ A key goal is to move toward reliable damage diagnosis even when healthy baselin
 
 **Representative directions:** spline-based damage indicators, baseline-free localization, wave attenuation through cracks, KAN-based damage classification, PDE-guided response dictionaries.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/damage-detection/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/damage-detection/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T2.png" alt="Damage detection and localization in civil infrastructure">
+  <img src="/images/research/T2.png" alt="Damage detection and localization in civil infrastructure">
 </div>
 
 </div>
@@ -93,12 +93,12 @@ The long-term objective is to support digital twins that are continuously update
 
 **Representative directions:** SRDD-enhanced state estimation, time-varying stiffness and damping identification, non-stationary response modelling, sparse-to-full-field reconstruction, digital twin updating.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/system-identification-digital-twins/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/system-identification-digital-twins/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T3.png" alt="System identification and digital twin updating">
+  <img src="/images/research/T3.png" alt="System identification and digital twin updating">
 </div>
 
 </div>
@@ -117,12 +117,12 @@ The emphasis is on scientific machine learning methods that preserve interpretab
 
 **Representative directions:** output-only PDE discovery, sparse regression for structural dynamics, response-curve dictionaries, latent-space discovery, KAN-based scientific modelling.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/scientific-machine-learning/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/scientific-machine-learning/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T4.png" alt="Scientific machine learning and equation discovery">
+  <img src="/images/research/T4.png" alt="Scientific machine learning and equation discovery">
 </div>
 
 </div>
@@ -141,12 +141,12 @@ The objective is to make SHM outputs more useful for engineering decisions by qu
 
 **Representative directions:** Bayesian uncertainty quantification, inverse damage analysis, prior modelling, uncertainty-aware signal completion, Monte-Carlo-style machine learning.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/uncertainty-aware-shm/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/uncertainty-aware-shm/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T5.png" alt="Uncertainty-aware structural health monitoring and Bayesian inference">
+  <img src="/images/research/T5.png" alt="Uncertainty-aware structural health monitoring and Bayesian inference">
 </div>
 
 </div>
@@ -165,12 +165,12 @@ The goal is to create new mechanics-aware representations and sensing ideas that
 
 **Representative directions:** adaptive splines, hybrid polynomial–B-spline fields, learned knot placement, continuous stiffness/damage fields, damage-sensitive finite element functions, bio-inspired mechanical sensing.
 
-<a class="research-link" href="/ashish-pal-website/research-themes/foundational-mechanics/">View projects in this thrust →</a>
+<a class="research-link" href="/research-themes/foundational-mechanics/">View projects in this thrust →</a>
 
 </div>
 
 <div class="research-feature-visual">
-  <img src="/ashish-pal-website/images/research/T6.png" alt="Foundational mechanics and approximation theory for structural health monitoring">
+  <img src="/images/research/T6.png" alt="Foundational mechanics and approximation theory for structural health monitoring">
 </div>
 
 </div>

@@ -70,6 +70,6 @@ It is not necessary to have expertise in all areas. Specific topics are shaped b
 
 ## Interested Students
 
-Students interested in physics-guided sensing, computer vision, signal processing, or infrastructure monitoring are encouraged to read the broader [Research page](/ashish-pal-website/research/) and contact me through the [Join the Group page](/ashish-pal-website/join/).
+Students interested in physics-guided sensing, computer vision, signal processing, or infrastructure monitoring are encouraged to read the broader [Research page](/research/) and contact me through the [Join the Group page](/join/).
 
 Specific project topics are discussed individually after understanding the student’s background, interests, and available research opportunities.

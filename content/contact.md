@@ -63,7 +63,7 @@ Prospective PhD, M.Tech, and undergraduate students interested in research proje
 - CV or resume  
 - Specific reason for interest in the group  
 
-Please also see the [Join page](/ashish-pal-website/join/) for current research opportunities and expectations.
+Please also see the [Join page](/join/) for current research opportunities and expectations.
 
 </div>
 

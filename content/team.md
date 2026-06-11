@@ -20,7 +20,7 @@ The group works on smart and resilient infrastructure systems through structural
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/ashish-pal_crop.jpeg" class="team-photo" alt="Prof. Ashish Pal">
+<img src="/images/team/ashish-pal_crop.jpeg" class="team-photo" alt="Prof. Ashish Pal">
 
 ### Prof. Ashish Pal
 
@@ -43,7 +43,7 @@ Research interests include structural health monitoring, physics-guided sensing,
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/jayakrishna.jpeg" class="team-photo" alt="Current post-doc researcher">
+<img src="/images/team/jayakrishna.jpeg" class="team-photo" alt="Current post-doc researcher">
 
 ### Dr. S. S. Jayakrishna
 
@@ -55,7 +55,7 @@ Working with the group on research related to structural health monitoring, sens
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/saransh.png" class="team-photo" alt="Current M.Tech student">
+<img src="/images/team/saransh.png" class="team-photo" alt="Current M.Tech student">
 
 ### Saransh Kar
 
@@ -75,7 +75,7 @@ Working with the group on research related to structural health monitoring, sens
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/anushka_crop.jpeg" class="team-photo" alt="Former B.Tech student">
+<img src="/images/team/anushka_crop.jpeg" class="team-photo" alt="Former B.Tech student">
 
 ### Anushka Singh
 
@@ -131,4 +131,4 @@ Ideal for motivated students seeking early exposure to research through explorat
 
 ## Research Opportunities
 
-Interested students are encouraged to visit the [Join page](/ashish-pal-website/join/) for current research directions and application instructions.
+Interested students are encouraged to visit the [Join page](/join/) for current research directions and application instructions.

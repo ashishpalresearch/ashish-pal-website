@@ -57,4 +57,4 @@ Students interested in course projects, B.Tech projects, M.Tech thesis work, or 
 - AI/ML for engineering systems,
 - and smart infrastructure monitoring.
 
-Students interested in research opportunities may explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/join/).
+Students interested in research opportunities may explore the [Research page](/research/) and the [Join the Group page](/join/).

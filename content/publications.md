@@ -12,7 +12,7 @@ The publications below reflect research in structural health monitoring, nonline
 
 Prospective PhD and M.Tech students are encouraged to explore these papers to understand the group’s research style, technical foundations, and broader areas of interest.
 
-[View research opportunities →](/ashish-pal-website/join/)
+[View research opportunities →](/join/)
 
 ---
 

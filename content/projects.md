@@ -132,6 +132,6 @@ The project also investigates physics-informed learning approaches to improve th
 
 ## Student and Collaborative Opportunities
 
-Students and collaborators interested in these areas are encouraged to explore the [Research page](/ashish-pal-website/research/) and the [Join the Group page](/ashish-pal-website/join/).
+Students and collaborators interested in these areas are encouraged to explore the [Research page](/research/) and the [Join the Group page](/join/).
 
 Specific project topics are discussed individually based on research needs, student background, time commitment, and available opportunities.
