@@ -20,7 +20,7 @@ The group works on smart and resilient infrastructure systems through structural
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/ashish-pal.jpeg" class="team-photo" alt="Prof. Ashish Pal">
+<img src="/ashish-pal-website/images/team/ashish-pal_crop.jpeg" class="team-photo" alt="Prof. Ashish Pal">
 
 ### Prof. Ashish Pal
 
@@ -37,17 +37,29 @@ Research interests include structural health monitoring, physics-guided sensing,
 
 ---
 
-## Current Students
+## Current Group
 
 <div class="team-grid">
 
 <div class="team-card">
 
+<img src="/ashish-pal-website/images/team/jayakrishna.jpeg" class="team-photo" alt="Current post-doc researcher">
+
+### Dr. S. S. Jayakrishna
+
+<div class="team-role">Post-Doctoral Researcher</div>
+
+Working with the group on research related to structural health monitoring, sensing, AI/ML, and smart infrastructure systems.
+
+</div>
+
+<div class="team-card">
+
 <img src="/ashish-pal-website/images/team/saransh.png" class="team-photo" alt="Current M.Tech student">
 
-### Current M.Tech Student
+### Saransh Kar
 
-<div class="team-role">M.Tech Thesis Student</div>
+<div class="team-role">M.Tech Student</div>
 
 Working with the group on research related to structural health monitoring, sensing, AI/ML, and smart infrastructure systems.
 
@@ -63,11 +75,11 @@ Working with the group on research related to structural health monitoring, sens
 
 <div class="team-card">
 
-<img src="/ashish-pal-website/images/team/anushka.jpeg" class="team-photo" alt="Former B.Tech student">
+<img src="/ashish-pal-website/images/team/anushka_crop.jpeg" class="team-photo" alt="Former B.Tech student">
 
-### Former B.Tech Research Student
+### Anushka Singh
 
-<div class="team-role">Undergraduate Researcher</div>
+<div class="team-role">Undergraduate Student</div>
 
 Worked with the group on multiple research projects related to infrastructure monitoring, sensing, AI/ML-assisted response interpretation, and computational tools for structural engineering applications.
 
@@ -81,7 +93,7 @@ Worked with the group on multiple research projects related to infrastructure mo
 
 RISE Lab is actively growing and welcomes motivated students who want to contribute to the early development of the group’s research culture, computational tools, experimental directions, and long-term identity.
 
-The group is especially interested in recruiting PhD students, M.Tech thesis students, and motivated B.Tech students interested in smart infrastructure, structural health monitoring, physics-guided sensing, computer vision, AI/ML, digital twins, scientific machine learning, and infrastructure resilience.
+The group is especially interested in recruiting PhD students, M.Tech students, and motivated B.Tech students interested in smart infrastructure, structural health monitoring, physics-guided sensing, computer vision, AI/ML, digital twins, scientific machine learning, and infrastructure resilience.
 
 ---
 
