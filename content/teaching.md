@@ -18,7 +18,7 @@ My teaching focuses on building strong foundations in structural engineering, me
 
 <div class="research-card">
 
-### Reinforced Concrete Design
+### Introduction to Structural Design
 
 Undergraduate course covering the fundamentals of reinforced concrete behaviour and design, including flexure, shear, serviceability, limit state design philosophy, and practical design considerations for structural members.
 

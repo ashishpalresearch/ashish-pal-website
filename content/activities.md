@@ -128,7 +128,7 @@ The talk discussed online estimation of displacement, velocity, and acceleration
 <strong>Venue:</strong> Online <br>
 <strong>Date:</strong> May 22, 2026 <br>
 <strong>Status:</strong> Completed <br>
-<strong>Lecture video:</strong> <a href="Your link here" target="_blank">Watch recording →</a>
+<!-- <strong>Lecture video:</strong> <a href="Your link here" target="_blank">Watch recording →</a> -->
 </p>
 
 <p>
