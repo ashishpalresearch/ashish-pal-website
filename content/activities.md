@@ -18,7 +18,7 @@ This page highlights selected academic activities, invited lectures, workshops, 
 
 <div class="activity-card featured-activity">
 
-<div class="activity-badge workshop-badge">Upcoming Workshop</div>
+<div class="activity-badge workshop-badge">Workshop</div>
 
 <h3>Machine Learning for Scientific Computing</h3>
 
@@ -26,7 +26,7 @@ This page highlights selected academic activities, invited lectures, workshops, 
 <strong>Role:</strong> Coordinator <br>
 <strong>Venue:</strong> Indian Institute of Technology Bombay <br>
 <strong>Date:</strong> July 23–24, 2026 <br>
-<strong>Status:</strong> Upcoming
+<strong>Status:</strong> Completed
 </p>
 
 <p>
@@ -49,7 +49,7 @@ The workshop will include hands-on training for structural problems, post-proces
 
 <div class="activity-card">
 
-<div class="activity-badge workshop-badge">Upcoming Workshop</div>
+<div class="activity-badge workshop-badge">Workshop</div>
 
 <h3>Machine Learning for Structural Health Monitoring</h3>
 
@@ -57,7 +57,7 @@ The workshop will include hands-on training for structural problems, post-proces
 <strong>Role:</strong> Coordinator <br>
 <strong>Venue:</strong> Indian Institute of Technology Bombay <br>
 <strong>Date:</strong> July 22, 2026 <br>
-<strong>Status:</strong> Upcoming
+<strong>Status:</strong> Completed
 </p>
 
 <p>

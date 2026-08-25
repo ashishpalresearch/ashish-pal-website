@@ -49,9 +49,23 @@ Research interests include structural health monitoring, physics-guided sensing,
 
 <div class="team-role">Post-Doctoral Researcher</div>
 
-Working with the group on research related to structural health monitoring, sensing, AI/ML, and smart infrastructure systems.
+Working with the group on research related to drone based structural inspection and damage monitoring.
 
 </div>
+
+
+<div class="team-card">
+
+<img src="/images/team/jariful_crop.png" class="team-photo" alt="Current JRF">
+
+### Jariful Hassan
+
+<div class="team-role">Junior Research Fellow</div>
+
+Working with the group on research related to nonlinear system identification using Physics-informed Machine Learning.
+
+</div>
+
 
 <div class="team-card">
 
@@ -61,7 +75,7 @@ Working with the group on research related to structural health monitoring, sens
 
 <div class="team-role">M.Tech Student</div>
 
-Working with the group on research related to structural health monitoring, sensing, AI/ML, and smart infrastructure systems.
+Working with the group on research related to computer vision based full-field displacement estimation.
 
 </div>
 
@@ -81,7 +95,7 @@ Working with the group on research related to structural health monitoring, sens
 
 <div class="team-role">Undergraduate Student</div>
 
-Worked with the group on multiple research projects related to infrastructure monitoring, sensing, AI/ML-assisted response interpretation, and computational tools for structural engineering applications.
+Worked with the group on multiple research projects related to sensing, AI/ML-assisted structural response reconstruction.
 
 </div>
 
